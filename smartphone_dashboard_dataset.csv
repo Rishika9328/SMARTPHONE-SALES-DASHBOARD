@@ -1,0 +1,1001 @@
+Brand,Model_Name,Units_Sold,Price_INR,Total_Revenue_INR,Avg_Rating,Total_Reviews,Complaint_Count,Main_Complaint_Reason,Return_Rate_Percentage
+Realme,Realme C65,6803,33169,225648707,4.5,1136,148,Camera Lag,4.0
+Samsung,Galaxy A56 5G,3342,14999,50126658,4.5,312,39,Battery Drain,3.6
+Samsung,Galaxy S25,3931,74999,294821069,4.3,573,32,Software Bug,3.1
+Samsung,Galaxy S25,2491,74999,186822509,4.5,308,93,Software Bug,3.7
+Realme,Realme GT 6,11146,34576,385384096,4.0,2450,100,Overheating,4.9
+Vivo,Vivo X100 Pro,7575,31878,241475850,4.1,999,221,Slow Charging,3.5
+Xiaomi,Redmi 12C,4635,33872,156996720,4.5,703,273,Camera Lag,4.7
+Realme,Realme Narzo 70,6457,15093,97455501,4.4,933,207,Overheating,3.7
+Xiaomi,Redmi Note 13 Pro,7057,19576,138147832,4.3,604,193,Slow Charging,3.9
+Xiaomi,POCO X6 Pro,8143,26408,215040344,4.3,842,112,Overheating,4.1
+Motorola,G54,5333,24489,130599837,3.9,798,201,Slow Charging,3.5
+Vivo,Vivo V29 Pro,8064,27956,225437184,4.1,1687,117,Battery Drain,5.5
+Vivo,Vivo V29 Pro,5210,11095,57804950,4.0,503,61,Display Screen Issue,3.4
+Samsung,Galaxy S25,2208,124999,275997792,4.7,406,94,Camera Lag,3.2
+Samsung,Galaxy S25 Ultra,2499,124999,312372501,4.6,226,79,Camera Lag,3.3
+Realme,Realme C65,4374,21730,95047020,4.0,1002,94,Slow Charging,4.2
+Realme,Realme 12 Pro,4058,15795,64096110,4.1,603,143,Overheating,4.6
+Motorola,Edge 60 Pro,11444,25809,295358196,4.1,1762,203,Camera Lag,3.3
+Vivo,Vivo V29 Pro,8481,22737,192832497,4.4,841,167,Display Screen Issue,3.8
+Vivo,Vivo Y200 5G,6971,35275,245902025,4.2,950,138,Software Bug,5.7
+Realme,Realme Narzo 70,9866,21152,208685632,4.1,2406,262,Camera Lag,4.5
+Xiaomi,Redmi 12C,4156,36107,150060692,3.9,486,88,Software Bug,5.8
+Samsung,Galaxy S25,1927,14999,28903073,4.3,330,40,Slow Charging,2.4
+Vivo,Vivo Y200 5G,11714,11939,139853446,4.1,2922,147,Battery Drain,3.2
+Xiaomi,Redmi Note 13 Pro,4338,27613,119785194,4.1,645,124,Display Screen Issue,5.1
+Realme,Realme GT 6,8046,35264,283734144,4.3,962,227,Display Screen Issue,3.9
+Motorola,Edge 60 Pro,7601,34783,264385583,4.3,885,77,Display Screen Issue,5.5
+Realme,Realme C65,4382,19561,85716302,4.0,715,162,Battery Drain,5.2
+Xiaomi,Redmi Note 13 Pro,5166,18983,98066178,4.3,451,205,Battery Drain,5.0
+Xiaomi,Xiaomi 14 Pro,5032,26608,133891456,4.0,1170,247,Software Bug,3.9
+Xiaomi,Redmi Note 13 Pro,8625,16286,140466750,4.4,1100,106,Battery Drain,3.3
+Apple,iPhone 15,1399,139999,195858601,4.5,175,32,Display Screen Issue,1.1
+Apple,iPhone 17 Pro,1002,119999,120238998,4.7,221,27,Display Screen Issue,2.3
+Samsung,Galaxy S25,2425,74999,181872575,4.5,372,32,Overheating,1.9
+Samsung,Galaxy S25,2399,74999,179922601,4.3,454,35,Display Screen Issue,3.7
+Vivo,Vivo V29 Pro,9815,34152,335201880,4.3,1127,279,Overheating,5.0
+Samsung,Galaxy S25,3646,124999,455746354,4.3,320,74,Camera Lag,4.0
+Apple,iPhone 17,806,89900,72459400,4.6,173,5,Software Bug,1.1
+Motorola,Edge 60 Pro,11533,16923,195172959,4.4,2207,64,Camera Lag,5.1
+Samsung,Galaxy A17 5G,1532,124999,191498468,4.4,330,20,Camera Lag,3.8
+Motorola,G84 5G,4852,31993,155230036,4.0,1134,191,Slow Charging,5.8
+Vivo,Vivo Y200 5G,9129,24895,227266455,4.0,919,107,Software Bug,4.1
+Vivo,Vivo Y200 5G,11961,15554,186041394,4.4,2060,246,Battery Drain,5.8
+Motorola,Edge 60 Fusion,11496,16219,186453624,3.9,1679,165,Overheating,5.4
+Samsung,Galaxy A17 5G,1919,24999,47973081,4.4,185,62,Display Screen Issue,3.9
+Xiaomi,Xiaomi 14 Pro,7625,16419,125194875,4.0,1421,192,Software Bug,5.3
+Xiaomi,POCO X6 Pro,6561,31203,204722883,4.5,1173,188,Camera Lag,5.8
+Vivo,Vivo V29 Pro,6986,27858,194615988,4.1,1480,243,Display Screen Issue,5.8
+Samsung,Galaxy S25 Ultra,1801,14999,27013199,4.3,205,61,Battery Drain,2.9
+Samsung,Galaxy A56 5G,2866,24999,71647134,4.4,290,20,Overheating,3.5
+Vivo,Vivo Y200 5G,5356,35317,189157852,4.3,549,156,Software Bug,4.8
+Xiaomi,Redmi 12C,4149,13075,54248175,4.1,961,126,Display Screen Issue,5.1
+Realme,Realme 12 Pro,9034,11031,99654054,4.0,881,202,Software Bug,5.0
+Samsung,Galaxy A17 5G,3210,74999,240746790,4.5,375,43,Software Bug,2.4
+Vivo,Vivo V29 Pro,4333,33667,145879111,4.2,985,165,Overheating,4.1
+Motorola,Edge 60 Fusion,8209,25348,208081732,4.4,688,261,Camera Lag,5.5
+Samsung,Galaxy S25,3484,14999,52256516,4.3,849,63,Camera Lag,3.1
+Vivo,Vivo Y200 5G,9048,30206,273303888,4.4,1196,72,Camera Lag,5.2
+Realme,Realme Narzo 70,7365,19581,144214065,4.1,1141,245,Camera Lag,3.8
+Motorola,Edge 60 Fusion,8541,32783,279999603,4.0,1262,165,Slow Charging,5.1
+Motorola,Edge 60 Fusion,5378,36139,194355542,4.4,1133,103,Software Bug,3.4
+Xiaomi,Redmi 12C,7810,16816,131332960,4.3,1319,74,Overheating,3.6
+Motorola,G84 5G,11625,38345,445760625,4.1,1029,114,Overheating,3.2
+Xiaomi,Xiaomi 14 Pro,8944,31546,282147424,4.2,1114,115,Battery Drain,3.4
+Apple,iPhone 16,2069,79999,165517931,4.5,367,7,Battery Drain,1.0
+Apple,iPhone 17 Pro,2448,89900,220075200,4.6,496,34,Camera Lag,1.5
+Realme,Realme 12 Pro,4101,21461,88011561,4.0,984,226,Software Bug,5.0
+Realme,Realme 12 Pro,11569,11695,135299455,4.1,1643,73,Slow Charging,3.6
+Samsung,Galaxy S25,4694,24999,117345306,4.3,1071,87,Battery Drain,2.4
+Apple,iPhone 15,2167,119999,260037833,4.5,323,26,Slow Charging,2.8
+Vivo,Vivo T2 Pro,4087,37624,153769288,4.1,700,253,Slow Charging,5.3
+Xiaomi,Redmi Note 13 Pro,9056,12210,110573760,4.4,1150,91,Overheating,3.6
+Xiaomi,POCO X6 Pro,10665,21323,227409795,4.3,962,149,Slow Charging,4.1
+Samsung,Galaxy A17 5G,2965,124999,370622035,4.3,349,70,Overheating,2.9
+Vivo,Vivo T2 Pro,4728,11544,54580032,4.1,1126,162,Camera Lag,3.5
+Vivo,Vivo Y200 5G,11844,29713,351920772,4.3,1702,167,Display Screen Issue,5.0
+Samsung,Galaxy S25 Ultra,2870,124999,358747130,4.7,694,36,Slow Charging,1.9
+Xiaomi,Redmi Note 13 Pro,5920,13300,78736000,4.2,1263,195,Display Screen Issue,5.5
+Motorola,G54,7753,23145,179443185,4.1,1462,132,Software Bug,5.4
+Samsung,Galaxy A56 5G,2531,74999,189822469,4.4,562,57,Software Bug,3.2
+Xiaomi,Redmi Note 13 Pro,9533,36463,347601779,3.9,1742,131,Overheating,5.6
+Samsung,Galaxy A56 5G,1954,74999,146548046,4.5,413,31,Overheating,3.5
+Vivo,Vivo Y200 5G,10755,20668,222284340,4.5,2443,192,Camera Lag,5.0
+Apple,iPhone 16,1325,139999,185498675,4.6,186,30,Display Screen Issue,1.0
+Realme,Realme C65,9520,16154,153786080,4.0,1094,166,Slow Charging,5.9
+Motorola,Edge 60 Pro,10592,23339,247206688,4.4,2540,165,Camera Lag,5.8
+Vivo,Vivo X100 Pro,7485,18334,137229990,4.5,769,273,Slow Charging,3.6
+Apple,iPhone 16,2082,79999,166557918,4.8,167,27,Slow Charging,1.9
+Realme,Realme GT 6,8430,23038,194210340,4.5,800,114,Slow Charging,4.6
+Samsung,Galaxy S25,1568,124999,195998432,4.5,334,90,Battery Drain,3.2
+Motorola,Edge 60 Pro,8352,14196,118564992,4.4,1410,239,Overheating,3.9
+Samsung,Galaxy A56 5G,3371,14999,50561629,4.5,695,22,Display Screen Issue,2.6
+Xiaomi,Redmi 12C,7982,38960,310978720,4.5,1680,214,Software Bug,4.5
+Apple,iPhone 16,1388,119999,166558612,4.8,275,38,Overheating,1.7
+Realme,Realme Narzo 70,7458,36621,273119418,4.4,1304,74,Overheating,5.5
+Apple,iPhone 17 Pro,1398,119999,167758602,4.7,116,23,Camera Lag,2.6
+Samsung,Galaxy A17 5G,1929,124999,241123071,4.7,373,40,Display Screen Issue,3.3
+Samsung,Galaxy A56 5G,2448,124999,305997552,4.5,334,91,Overheating,2.0
+Motorola,G84 5G,9800,36882,361443600,4.3,1282,243,Overheating,5.2
+Vivo,Vivo V29 Pro,11546,24285,280394610,4.0,1341,139,Software Bug,5.7
+Xiaomi,Xiaomi 14 Pro,9618,23923,230091414,4.4,1282,156,Software Bug,3.3
+Xiaomi,Redmi Note 13 Pro,10899,23131,252104769,4.0,1322,265,Slow Charging,4.2
+Apple,iPhone 17 Pro,2377,89900,213692300,4.6,234,14,Camera Lag,2.6
+Samsung,Galaxy S25,3641,74999,273071359,4.5,713,60,Battery Drain,3.5
+Motorola,Edge 60 Fusion,8663,15073,130577399,4.4,826,66,Camera Lag,3.5
+Apple,iPhone 17 Pro,1148,89900,103205200,4.6,154,10,Slow Charging,2.0
+Samsung,Galaxy A17 5G,4830,24999,120745170,4.3,594,54,Slow Charging,3.1
+Xiaomi,Xiaomi 14 Pro,9498,33267,315969966,4.3,1467,109,Battery Drain,4.9
+Samsung,Galaxy A17 5G,4002,14999,60025998,4.7,381,28,Software Bug,1.9
+Motorola,Edge 60 Pro,6886,19653,135330558,4.4,1541,207,Slow Charging,3.7
+Xiaomi,Redmi Note 13 Pro,11139,30352,338090928,4.2,2609,117,Battery Drain,5.1
+Samsung,Galaxy S25,3696,74999,277196304,4.3,546,22,Camera Lag,1.9
+Realme,Realme 12 Pro,7515,33148,249107220,3.9,811,187,Display Screen Issue,5.2
+Motorola,G54,10193,37256,379750408,4.4,1684,270,Battery Drain,4.7
+Samsung,Galaxy S25,1834,14999,27508166,4.5,263,70,Overheating,4.0
+Xiaomi,POCO X6 Pro,5420,21128,114513760,3.9,939,183,Battery Drain,3.4
+Motorola,G84 5G,4450,25693,114333850,4.4,667,96,Overheating,5.3
+Apple,iPhone 15,2448,89900,220075200,4.8,351,34,Battery Drain,2.4
+Realme,Realme GT 6,11898,33436,397821528,4.0,1946,186,Software Bug,5.8
+Xiaomi,Redmi 12C,10767,11789,126932163,4.2,1661,79,Overheating,3.8
+Vivo,Vivo V29 Pro,11331,30661,347419791,4.1,982,74,Software Bug,4.6
+Xiaomi,Redmi 12C,5063,32060,162319780,4.0,1060,255,Slow Charging,3.6
+Xiaomi,POCO X6 Pro,6318,28346,179090028,4.4,687,274,Battery Drain,4.9
+Apple,iPhone 15,1008,89900,90619200,4.6,205,35,Slow Charging,1.4
+Samsung,Galaxy A56 5G,2763,24999,69072237,4.5,612,59,Overheating,2.9
+Motorola,G84 5G,4361,24873,108471153,3.9,914,246,Slow Charging,6.0
+Vivo,Vivo Y200 5G,9937,11185,111145345,4.1,947,185,Slow Charging,5.6
+Motorola,G84 5G,7910,25287,200020170,4.3,1091,146,Slow Charging,5.0
+Realme,Realme GT 6,9429,24844,234254076,4.0,1183,196,Display Screen Issue,5.5
+Xiaomi,Redmi 12C,9971,16430,163823530,4.3,1727,232,Display Screen Issue,3.2
+Motorola,G84 5G,6191,29529,182814039,4.3,506,255,Software Bug,4.7
+Samsung,Galaxy S25 Ultra,3567,14999,53501433,4.5,446,52,Overheating,3.0
+Motorola,G84 5G,5320,37300,198436000,4.5,875,200,Software Bug,3.4
+Vivo,Vivo Y200 5G,8343,12508,104354244,4.0,1421,215,Battery Drain,4.2
+Motorola,G84 5G,6428,31726,203934728,4.4,846,155,Camera Lag,5.5
+Xiaomi,Redmi Note 13 Pro,11315,16814,190250410,3.9,2527,193,Software Bug,3.6
+Realme,Realme C65,10670,15815,168746050,4.1,1517,168,Camera Lag,5.9
+Xiaomi,Redmi 12C,4670,22286,104075620,4.0,1099,74,Camera Lag,4.0
+Motorola,Edge 60 Fusion,8648,28135,243311480,4.3,1012,118,Battery Drain,3.4
+Xiaomi,Xiaomi 14 Pro,5297,19369,102597593,4.0,1170,279,Overheating,5.8
+Samsung,Galaxy S25 Ultra,2639,24999,65972361,4.6,279,94,Overheating,3.5
+Samsung,Galaxy S25,4367,14999,65500633,4.2,1064,80,Display Screen Issue,3.6
+Xiaomi,Xiaomi 14 Pro,9404,24610,231432440,4.5,1709,85,Overheating,3.4
+Samsung,Galaxy S25,1814,74999,136048186,4.3,438,48,Software Bug,3.0
+Realme,Realme Narzo 70,9591,17404,166921764,4.4,1631,137,Software Bug,5.1
+Vivo,Vivo T2 Pro,4594,31979,146911526,4.5,856,184,Software Bug,4.6
+Vivo,Vivo X100 Pro,5264,14788,77844032,4.3,883,87,Overheating,4.3
+Apple,iPhone 17,1468,139999,205518532,4.7,347,28,Software Bug,2.3
+Xiaomi,Redmi Note 13 Pro,9172,38737,355295764,4.2,1654,151,Camera Lag,3.3
+Vivo,Vivo T2 Pro,5130,27150,139279500,4.1,801,263,Overheating,3.8
+Xiaomi,Redmi Note 13 Pro,4139,33795,139877505,4.3,421,165,Overheating,5.9
+Vivo,Vivo X100 Pro,10561,15494,163632134,4.3,892,167,Software Bug,5.8
+Realme,Realme 12 Pro,8509,35583,302775747,4.2,1729,227,Software Bug,5.1
+Apple,iPhone 17 Pro,1509,79999,120718491,4.5,292,15,Battery Drain,1.9
+Motorola,Edge 60 Fusion,7480,37192,278196160,4.2,1651,68,Battery Drain,5.5
+Realme,Realme 12 Pro,11118,32063,356476434,4.4,1477,157,Slow Charging,3.7
+Samsung,Galaxy A17 5G,2511,124999,313872489,4.6,352,51,Slow Charging,2.5
+Vivo,Vivo T2 Pro,6896,18810,129713760,4.3,1024,110,Software Bug,3.7
+Realme,Realme GT 6,6154,28205,173573570,4.4,538,244,Camera Lag,3.5
+Realme,Realme C65,5868,25518,149739624,4.2,1282,273,Display Screen Issue,4.9
+Samsung,Galaxy S25,4603,124999,575370397,4.2,1099,86,Slow Charging,2.3
+Xiaomi,POCO X6 Pro,6237,28258,176245146,4.2,1397,169,Camera Lag,5.0
+Apple,iPhone 16,1896,79999,151678104,4.7,372,22,Overheating,2.1
+Apple,iPhone 15,1700,79999,135998300,4.6,297,33,Slow Charging,1.0
+Motorola,G84 5G,7717,33758,260510486,4.3,1374,204,Slow Charging,4.3
+Realme,Realme GT 6,7925,15923,126189775,4.2,1295,259,Overheating,4.6
+Realme,Realme C65,4102,12061,49474222,4.2,578,137,Camera Lag,3.9
+Realme,Realme 12 Pro,6939,32871,228091869,4.0,843,198,Overheating,3.8
+Xiaomi,Redmi 12C,8173,20840,170325320,4.4,1388,223,Camera Lag,4.2
+Xiaomi,Redmi Note 13 Pro,11505,36039,414628695,4.0,1834,192,Battery Drain,3.3
+Apple,iPhone 17,2254,79999,180317746,4.7,539,30,Battery Drain,1.7
+Xiaomi,Redmi Note 13 Pro,8260,19558,161549080,4.0,1018,160,Battery Drain,5.0
+Xiaomi,POCO X6 Pro,6726,22980,154563480,4.3,1547,260,Display Screen Issue,5.6
+Samsung,Galaxy S25,1526,124999,190748474,4.6,266,52,Battery Drain,2.2
+Realme,Realme GT 6,4057,34586,140315402,4.2,868,275,Software Bug,5.7
+Apple,iPhone 17,893,89900,80280700,4.6,144,12,Software Bug,2.2
+Motorola,Edge 60 Fusion,5620,27107,152341340,4.1,853,256,Slow Charging,4.5
+Vivo,Vivo Y200 5G,6260,18595,116404700,4.3,1512,95,Slow Charging,3.7
+Apple,iPhone 15,925,139999,129499075,4.7,150,33,Camera Lag,1.2
+Motorola,G54,11675,32968,384901400,4.1,2230,92,Display Screen Issue,3.3
+Apple,iPhone 17,1764,89900,158583600,4.7,204,34,Display Screen Issue,2.5
+Motorola,Edge 60 Pro,5334,26763,142753842,4.3,507,191,Camera Lag,4.2
+Vivo,Vivo Y200 5G,6022,24591,148087002,4.1,589,133,Overheating,4.3
+Apple,iPhone 17 Pro,926,89900,83247400,4.6,121,34,Software Bug,2.7
+Xiaomi,POCO X6 Pro,11691,34880,407782080,4.0,1182,150,Software Bug,4.3
+Motorola,Edge 60 Fusion,5101,29240,149153240,4.0,1093,237,Overheating,4.4
+Samsung,Galaxy A17 5G,2584,14999,38757416,4.2,453,60,Slow Charging,3.6
+Motorola,Edge 60 Pro,9488,35296,334888448,4.4,1477,97,Camera Lag,4.0
+Motorola,Edge 60 Pro,10497,12652,132808044,4.1,1375,167,Display Screen Issue,4.1
+Xiaomi,Redmi 12C,5519,21052,116185988,4.1,455,187,Software Bug,4.3
+Motorola,G84 5G,8495,37526,318783370,4.2,2016,85,Software Bug,4.4
+Vivo,Vivo V29 Pro,6692,36764,246024688,4.2,1588,137,Slow Charging,4.9
+Vivo,Vivo Y200 5G,8345,14056,117297320,4.2,725,73,Display Screen Issue,4.7
+Apple,iPhone 16,1500,79999,119998500,4.5,330,30,Battery Drain,1.0
+Realme,Realme 12 Pro,10524,17334,182423016,4.1,2257,144,Software Bug,5.2
+Vivo,Vivo Y200 5G,9846,26171,257679666,4.1,1149,274,Overheating,6.0
+Apple,iPhone 17,1788,139999,250318212,4.7,305,36,Camera Lag,2.7
+Vivo,Vivo X100 Pro,8514,32927,280340478,3.9,723,275,Display Screen Issue,5.3
+Xiaomi,Xiaomi 14 Pro,10685,11478,122642430,4.1,1624,246,Camera Lag,5.2
+Vivo,Vivo V29 Pro,6552,26593,174237336,4.3,564,271,Battery Drain,5.5
+Apple,iPhone 17 Pro,1666,139999,233238334,4.6,199,7,Camera Lag,2.6
+Realme,Realme C65,9790,16132,157932280,4.0,1532,196,Display Screen Issue,6.0
+Samsung,Galaxy S25,4799,24999,119970201,4.3,867,28,Display Screen Issue,3.8
+Realme,Realme Narzo 70,10304,35603,366853312,4.1,2373,86,Display Screen Issue,4.6
+Samsung,Galaxy S25,1718,74999,128848282,4.5,401,81,Battery Drain,3.1
+Motorola,Edge 60 Fusion,6611,32177,212722147,4.2,631,108,Overheating,5.5
+Vivo,Vivo V29 Pro,9180,33925,311431500,4.0,1432,156,Battery Drain,4.5
+Realme,Realme GT 6,11257,29205,328760685,4.0,2359,213,Display Screen Issue,3.7
+Samsung,Galaxy A17 5G,4886,124999,610745114,4.3,580,20,Software Bug,2.9
+Xiaomi,Xiaomi 14 Pro,8697,18834,163799298,3.9,1350,190,Slow Charging,5.6
+Vivo,Vivo T2 Pro,11749,33019,387940231,4.4,2822,212,Overheating,5.4
+Apple,iPhone 17,1306,119999,156718694,4.6,203,15,Display Screen Issue,1.8
+Vivo,Vivo Y200 5G,10528,15821,166563488,4.0,2412,86,Overheating,4.7
+Vivo,Vivo V29 Pro,11062,22183,245388346,4.2,1040,127,Software Bug,5.0
+Realme,Realme Narzo 70,9755,31007,302473285,4.1,2407,136,Overheating,4.4
+Vivo,Vivo Y200 5G,11342,14590,165479780,4.0,2079,266,Overheating,5.2
+Vivo,Vivo X100 Pro,4601,38649,177824049,4.3,423,60,Camera Lag,4.7
+Samsung,Galaxy A56 5G,4847,124999,605870153,4.2,1079,67,Camera Lag,3.9
+Xiaomi,Xiaomi 14 Pro,8152,27723,225997896,4.0,658,253,Battery Drain,3.4
+Motorola,G54,7054,38726,273173204,4.4,1263,168,Software Bug,4.9
+Xiaomi,Redmi Note 13 Pro,4106,23323,95764238,3.9,473,120,Battery Drain,5.4
+Vivo,Vivo X100 Pro,11699,25893,302922207,4.4,958,80,Software Bug,3.2
+Realme,Realme 12 Pro,7682,38573,296317786,4.3,1590,119,Software Bug,5.0
+Apple,iPhone 17,890,89900,80011000,4.6,127,18,Overheating,2.5
+Vivo,Vivo T2 Pro,4408,31207,137560456,4.4,929,125,Software Bug,3.7
+Realme,Realme C65,8351,24339,203254989,4.0,1279,257,Camera Lag,6.0
+Realme,Realme 12 Pro,11534,15084,173978856,4.1,1172,228,Software Bug,3.3
+Realme,Realme C65,8825,31447,277519775,4.2,771,165,Display Screen Issue,5.9
+Vivo,Vivo V29 Pro,9234,18873,174273282,4.4,2216,207,Display Screen Issue,4.4
+Xiaomi,Xiaomi 14 Pro,5184,30609,158677056,4.2,1121,118,Slow Charging,3.9
+Motorola,Edge 60 Fusion,10237,15044,154005428,4.3,1708,124,Software Bug,4.4
+Samsung,Galaxy S25,3286,24999,82146714,4.6,683,54,Software Bug,3.0
+Vivo,Vivo Y200 5G,7719,37818,291917142,3.9,1247,114,Battery Drain,5.2
+Realme,Realme 12 Pro,6067,34370,208522790,4.1,1116,254,Display Screen Issue,4.3
+Vivo,Vivo V29 Pro,6220,19225,119579500,4.0,844,119,Battery Drain,4.7
+Apple,iPhone 16,892,79999,71359108,4.7,210,26,Overheating,2.2
+Apple,iPhone 15,2248,119999,269757752,4.7,417,6,Software Bug,1.2
+Apple,iPhone 17 Pro,1536,79999,122878464,4.7,205,16,Software Bug,1.0
+Xiaomi,POCO X6 Pro,4483,18533,83083439,4.2,821,163,Display Screen Issue,4.9
+Samsung,Galaxy A56 5G,4079,14999,61180921,4.3,392,70,Display Screen Issue,2.1
+Motorola,Edge 60 Pro,4936,25973,128202728,4.2,620,60,Battery Drain,4.5
+Vivo,Vivo Y200 5G,8231,25541,210227971,4.2,1339,118,Software Bug,4.0
+Realme,Realme Narzo 70,4001,11975,47911975,4.3,478,169,Overheating,5.6
+Realme,Realme Narzo 70,9406,20171,189728426,4.2,846,85,Camera Lag,3.5
+Samsung,Galaxy A56 5G,3139,124999,392371861,4.2,609,39,Software Bug,1.9
+Motorola,Edge 60 Pro,7389,20388,150646932,4.5,1556,185,Slow Charging,4.7
+Samsung,Galaxy S25 Ultra,1923,124999,240373077,4.4,187,39,Slow Charging,2.6
+Realme,Realme C65,5797,11891,68932127,4.2,930,158,Software Bug,4.3
+Apple,iPhone 17 Pro,1042,139999,145878958,4.8,209,32,Slow Charging,2.1
+Xiaomi,Xiaomi 14 Pro,10415,28207,293775905,4.5,2183,198,Camera Lag,4.0
+Realme,Realme C65,10295,27186,279879870,4.2,865,127,Overheating,3.2
+Xiaomi,Redmi Note 13 Pro,6210,15645,97155450,4.0,1445,249,Display Screen Issue,3.7
+Vivo,Vivo Y200 5G,10931,24046,262846826,4.4,2263,119,Display Screen Issue,6.0
+Apple,iPhone 17,1320,89900,118668000,4.7,311,21,Software Bug,1.2
+Xiaomi,Redmi 12C,4659,32543,151617837,4.1,852,194,Overheating,4.7
+Apple,iPhone 16,2264,79999,181117736,4.7,476,39,Overheating,2.5
+Realme,Realme GT 6,6345,30821,195559245,4.2,1324,90,Display Screen Issue,5.7
+Vivo,Vivo Y200 5G,6110,35129,214638190,3.9,542,280,Camera Lag,3.8
+Apple,iPhone 17 Pro,1006,139999,140838994,4.6,88,31,Software Bug,1.6
+Samsung,Galaxy S25,4041,24999,101020959,4.3,855,57,Slow Charging,3.4
+Vivo,Vivo X100 Pro,9624,33331,320777544,4.0,1790,143,Display Screen Issue,3.3
+Xiaomi,Redmi 12C,10214,30510,311629140,4.4,1938,264,Software Bug,4.8
+Apple,iPhone 16,1804,139999,252558196,4.6,319,27,Camera Lag,2.4
+Samsung,Galaxy A56 5G,4958,74999,371845042,4.3,1070,91,Display Screen Issue,3.0
+Apple,iPhone 17,1687,139999,236178313,4.6,148,28,Camera Lag,1.0
+Apple,iPhone 15,1340,119999,160798660,4.5,299,6,Overheating,2.4
+Motorola,Edge 60 Pro,9986,13343,133243198,4.4,828,132,Overheating,5.6
+Apple,iPhone 15,2405,119999,288597595,4.5,562,22,Battery Drain,2.1
+Samsung,Galaxy A56 5G,4534,124999,566745466,4.4,827,73,Slow Charging,2.1
+Vivo,Vivo V29 Pro,7951,13206,105000906,4.1,1832,207,Slow Charging,5.7
+Vivo,Vivo Y200 5G,11479,15374,176478146,4.4,2115,149,Battery Drain,3.6
+Vivo,Vivo V29 Pro,10257,33019,338675883,3.9,2190,95,Display Screen Issue,3.5
+Apple,iPhone 17,1073,89900,96462700,4.6,223,29,Software Bug,1.8
+Xiaomi,Xiaomi 14 Pro,8160,25092,204750720,4.0,1319,242,Camera Lag,4.8
+Samsung,Galaxy S25,1955,124999,244373045,4.5,276,21,Overheating,3.3
+Vivo,Vivo V29 Pro,4550,13178,59959900,4.5,560,144,Overheating,5.9
+Motorola,Edge 60 Fusion,7042,15130,106545460,4.4,865,98,Slow Charging,6.0
+Apple,iPhone 15,1395,139999,195298605,4.8,302,20,Slow Charging,1.9
+Realme,Realme Narzo 70,11121,33419,371652699,4.0,2019,74,Battery Drain,5.7
+Apple,iPhone 17 Pro,1874,119999,224878126,4.8,211,32,Battery Drain,2.4
+Motorola,G54,11246,30725,345533350,4.5,2681,163,Overheating,5.3
+Vivo,Vivo X100 Pro,11245,21070,236932150,4.4,2354,174,Display Screen Issue,4.8
+Samsung,Galaxy S25 Ultra,4199,14999,62980801,4.6,538,94,Display Screen Issue,3.0
+Realme,Realme 12 Pro,10345,17422,180230590,4.4,1196,148,Software Bug,4.9
+Xiaomi,Xiaomi 14 Pro,4390,37875,166271250,4.0,528,221,Software Bug,4.8
+Realme,Realme C65,6395,14791,94588445,4.3,1109,107,Camera Lag,3.7
+Realme,Realme GT 6,4386,21168,92842848,4.4,598,232,Software Bug,5.9
+Apple,iPhone 15,1957,119999,234838043,4.6,353,13,Overheating,2.5
+Realme,Realme 12 Pro,6600,31158,205642800,4.0,771,229,Camera Lag,4.6
+Motorola,G84 5G,7166,28598,204933268,4.1,704,278,Slow Charging,4.8
+Vivo,Vivo V29 Pro,11844,34260,405775440,4.2,1362,176,Display Screen Issue,5.9
+Samsung,Galaxy S25 Ultra,2765,14999,41472235,4.7,536,67,Overheating,3.3
+Vivo,Vivo Y200 5G,6302,21539,135738778,4.5,1387,211,Display Screen Issue,4.5
+Realme,Realme 12 Pro,9154,28470,260614380,4.4,858,141,Software Bug,5.4
+Samsung,Galaxy A17 5G,2607,14999,39102393,4.7,226,60,Display Screen Issue,2.8
+Apple,iPhone 17 Pro,854,139999,119559146,4.7,111,35,Software Bug,1.8
+Vivo,Vivo Y200 5G,6710,38456,258039760,4.4,1164,189,Camera Lag,5.7
+Vivo,Vivo T2 Pro,7744,23000,178112000,4.2,1540,61,Battery Drain,4.0
+Motorola,Edge 60 Fusion,8813,34264,301968632,4.4,1710,146,Overheating,6.0
+Apple,iPhone 15,2500,79999,199997500,4.7,261,14,Camera Lag,1.6
+Vivo,Vivo Y200 5G,4937,19038,93990606,4.4,609,159,Slow Charging,3.2
+Motorola,G84 5G,5169,30704,158708976,4.3,1038,274,Overheating,3.4
+Xiaomi,Redmi Note 13 Pro,8923,29857,266414011,3.9,1256,256,Software Bug,5.3
+Realme,Realme GT 6,5630,15721,88509230,4.3,770,111,Camera Lag,3.3
+Motorola,Edge 60 Fusion,8639,38150,329577850,3.9,1986,225,Overheating,5.7
+Samsung,Galaxy S25 Ultra,4759,74999,356920241,4.4,570,43,Camera Lag,1.9
+Samsung,Galaxy S25,3507,124999,438371493,4.2,803,93,Slow Charging,3.0
+Motorola,Edge 60 Pro,4522,33000,149226000,4.0,950,74,Software Bug,3.4
+Vivo,Vivo V29 Pro,5870,36038,211543060,4.0,678,179,Battery Drain,3.8
+Realme,Realme C65,9727,35843,348644861,4.2,1873,261,Display Screen Issue,5.6
+Vivo,Vivo V29 Pro,6922,37166,257263052,4.3,783,171,Battery Drain,5.4
+Vivo,Vivo V29 Pro,4884,23035,112502940,4.5,575,174,Battery Drain,5.1
+Motorola,Edge 60 Pro,9235,27930,257933550,4.0,1059,77,Slow Charging,4.0
+Vivo,Vivo T2 Pro,7587,28747,218103489,4.5,1480,130,Slow Charging,4.0
+Xiaomi,POCO X6 Pro,11525,26893,309941825,4.2,2818,264,Slow Charging,4.5
+Apple,iPhone 16,1540,79999,123198460,4.7,307,6,Battery Drain,2.2
+Vivo,Vivo X100 Pro,6641,38952,258680232,4.2,1629,83,Software Bug,3.2
+Samsung,Galaxy S25,3097,124999,387121903,4.4,460,82,Camera Lag,2.5
+Motorola,Edge 60 Pro,9088,30432,276566016,4.1,1288,76,Software Bug,5.3
+Apple,iPhone 15,1565,139999,219098435,4.6,126,34,Battery Drain,2.6
+Vivo,Vivo X100 Pro,9467,23725,224604575,4.1,2174,140,Slow Charging,5.3
+Vivo,Vivo X100 Pro,5950,25735,153123250,4.2,1398,75,Display Screen Issue,5.1
+Xiaomi,Xiaomi 14 Pro,9163,21916,200816308,4.4,1853,236,Slow Charging,3.8
+Xiaomi,POCO X6 Pro,5406,23193,125381358,3.9,1001,220,Software Bug,3.9
+Motorola,Edge 60 Pro,11824,18976,224372224,4.0,2278,138,Software Bug,3.7
+Realme,Realme 12 Pro,7174,20606,147827444,4.3,1193,153,Battery Drain,4.8
+Samsung,Galaxy A56 5G,2829,124999,353622171,4.6,661,25,Display Screen Issue,2.4
+Motorola,Edge 60 Fusion,7312,35362,258566944,4.0,1180,114,Camera Lag,3.9
+Realme,Realme GT 6,10178,32608,331884224,4.1,1964,274,Software Bug,4.7
+Samsung,Galaxy A17 5G,2645,124999,330622355,4.4,659,94,Display Screen Issue,2.5
+Xiaomi,POCO X6 Pro,10502,17070,179269140,4.0,1569,134,Display Screen Issue,3.7
+Motorola,G54,8879,26679,236882841,4.4,1368,271,Display Screen Issue,5.5
+Vivo,Vivo V29 Pro,10198,28548,291132504,4.1,2127,184,Camera Lag,3.5
+Vivo,Vivo X100 Pro,7615,12838,97761370,4.1,1438,253,Overheating,4.2
+Realme,Realme GT 6,5351,34143,182699193,4.5,849,219,Software Bug,5.2
+Realme,Realme Narzo 70,6439,16082,103551998,4.1,575,230,Slow Charging,5.5
+Realme,Realme Narzo 70,7303,23167,169188601,4.0,1695,126,Software Bug,5.1
+Xiaomi,Redmi 12C,10627,23923,254229721,4.3,1382,142,Display Screen Issue,5.9
+Apple,iPhone 17,2055,139999,287697945,4.5,383,22,Camera Lag,2.8
+Samsung,Galaxy A56 5G,2342,74999,175647658,4.3,526,81,Display Screen Issue,2.8
+Vivo,Vivo X100 Pro,7109,35181,250101729,4.3,1288,130,Display Screen Issue,4.2
+Realme,Realme 12 Pro,4733,15160,71752280,4.3,750,133,Slow Charging,6.0
+Motorola,Edge 60 Pro,6915,28777,198992955,4.1,1243,69,Software Bug,3.9
+Apple,iPhone 15,1085,119999,130198915,4.5,136,18,Slow Charging,1.8
+Samsung,Galaxy A17 5G,1939,74999,145423061,4.3,211,74,Battery Drain,2.1
+Samsung,Galaxy A17 5G,2453,124999,306622547,4.7,532,95,Slow Charging,2.2
+Vivo,Vivo T2 Pro,6145,30603,188055435,4.1,851,119,Battery Drain,5.1
+Apple,iPhone 17 Pro,1918,79999,153438082,4.7,375,32,Display Screen Issue,2.3
+Xiaomi,Xiaomi 14 Pro,5158,23851,123023458,4.1,771,181,Overheating,4.6
+Motorola,Edge 60 Fusion,11397,32077,365581569,4.3,2645,210,Overheating,3.9
+Motorola,G54,9973,11949,119167377,4.1,1445,275,Slow Charging,4.6
+Xiaomi,Redmi 12C,6707,30129,202075203,4.4,749,215,Software Bug,3.5
+Vivo,Vivo V29 Pro,6375,12040,76755000,4.2,1558,91,Software Bug,4.6
+Xiaomi,Redmi 12C,8728,15267,133250376,4.1,968,246,Overheating,4.5
+Motorola,G54,10278,23150,237935700,4.4,1715,167,Battery Drain,3.6
+Samsung,Galaxy S25 Ultra,3706,14999,55586294,4.3,825,69,Software Bug,3.7
+Apple,iPhone 17,950,89900,85405000,4.8,124,29,Software Bug,1.4
+Apple,iPhone 15,1300,139999,181998700,4.7,320,13,Slow Charging,1.8
+Apple,iPhone 17,2018,79999,161437982,4.5,470,24,Slow Charging,1.8
+Apple,iPhone 16,1223,139999,171218777,4.7,244,35,Battery Drain,2.2
+Xiaomi,Xiaomi 14 Pro,10045,37403,375713135,3.9,1681,80,Overheating,4.1
+Samsung,Galaxy S25,1693,14999,25393307,4.4,349,27,Slow Charging,3.5
+Realme,Realme GT 6,6344,26228,166390432,4.4,822,85,Overheating,3.8
+Realme,Realme Narzo 70,4552,17707,80602264,4.0,602,96,Overheating,5.5
+Apple,iPhone 17 Pro,1720,139999,240798280,4.6,314,7,Camera Lag,1.4
+Samsung,Galaxy A17 5G,2643,14999,39642357,4.3,226,74,Software Bug,1.9
+Vivo,Vivo Y200 5G,5534,26248,145256432,4.1,519,218,Slow Charging,3.2
+Samsung,Galaxy S25,3603,124999,450371397,4.4,544,80,Camera Lag,2.4
+Xiaomi,Redmi 12C,4517,27072,122284224,3.9,612,205,Battery Drain,5.3
+Samsung,Galaxy S25,4882,74999,366145118,4.3,1203,23,Overheating,3.0
+Samsung,Galaxy A17 5G,4168,74999,312595832,4.7,901,58,Slow Charging,3.5
+Motorola,Edge 60 Pro,11304,15131,171040824,4.1,1750,264,Camera Lag,4.5
+Realme,Realme C65,11962,24836,297088232,4.1,2103,215,Slow Charging,3.6
+Xiaomi,Redmi Note 13 Pro,11593,33744,391194192,4.1,2712,105,Overheating,4.9
+Xiaomi,Redmi 12C,8214,21293,174900702,4.3,2038,124,Battery Drain,5.8
+Vivo,Vivo T2 Pro,9128,16508,150685024,4.0,939,128,Overheating,5.4
+Apple,iPhone 17 Pro,991,79999,79279009,4.7,122,33,Slow Charging,1.2
+Samsung,Galaxy S25,3249,24999,81221751,4.7,599,66,Overheating,3.5
+Samsung,Galaxy A17 5G,3601,24999,90021399,4.3,819,83,Battery Drain,2.4
+Apple,iPhone 16,1569,79999,125518431,4.7,292,35,Battery Drain,2.0
+Realme,Realme GT 6,4346,34231,148767926,4.1,610,215,Battery Drain,4.2
+Realme,Realme Narzo 70,10472,31132,326014304,4.2,1856,115,Battery Drain,3.4
+Realme,Realme Narzo 70,11241,27538,309554658,4.4,2131,278,Slow Charging,4.7
+Xiaomi,POCO X6 Pro,9699,26364,255704436,4.3,1119,193,Slow Charging,3.4
+Realme,Realme GT 6,8435,30967,261206645,4.3,1848,127,Overheating,5.4
+Apple,iPhone 17 Pro,2397,79999,191757603,4.7,588,18,Slow Charging,2.4
+Samsung,Galaxy S25 Ultra,3975,74999,298121025,4.3,529,29,Battery Drain,1.9
+Realme,Realme Narzo 70,5976,21280,127169280,4.0,964,155,Slow Charging,4.7
+Samsung,Galaxy S25,3438,74999,257846562,4.2,824,82,Slow Charging,2.0
+Motorola,G54,10098,11187,112966326,4.1,2006,162,Slow Charging,4.4
+Motorola,Edge 60 Pro,8576,20166,172943616,4.2,2143,166,Software Bug,3.7
+Realme,Realme Narzo 70,10055,28009,281630495,4.2,1673,253,Overheating,5.6
+Xiaomi,Xiaomi 14 Pro,7764,25254,196072056,4.3,838,255,Overheating,4.9
+Samsung,Galaxy A56 5G,4166,24999,104145834,4.6,973,28,Battery Drain,3.4
+Apple,iPhone 17 Pro,870,119999,104399130,4.8,87,18,Display Screen Issue,2.6
+Xiaomi,Redmi Note 13 Pro,7301,12334,90050534,4.3,1211,169,Display Screen Issue,6.0
+Xiaomi,POCO X6 Pro,7081,20483,145040123,4.0,904,149,Display Screen Issue,6.0
+Apple,iPhone 17,1654,89900,148694600,4.6,301,38,Battery Drain,2.6
+Vivo,Vivo T2 Pro,4064,36444,148108416,4.4,703,143,Camera Lag,4.5
+Realme,Realme C65,4406,16384,72187904,4.3,1026,159,Overheating,4.7
+Realme,Realme Narzo 70,10833,20613,223300629,3.9,1303,252,Software Bug,3.6
+Realme,Realme GT 6,8739,16237,141895143,4.3,849,232,Camera Lag,4.0
+Realme,Realme 12 Pro,11202,30477,341403354,4.0,1379,251,Software Bug,5.9
+Xiaomi,POCO X6 Pro,7548,26616,200897568,4.0,1714,250,Display Screen Issue,4.2
+Xiaomi,Redmi Note 13 Pro,10681,36083,385402523,4.0,2219,278,Software Bug,3.9
+Motorola,G54,9543,28097,268129671,4.2,2221,245,Slow Charging,4.4
+Apple,iPhone 15,1979,139999,277058021,4.7,241,25,Camera Lag,1.5
+Motorola,G84 5G,7723,23771,183583433,4.1,1438,203,Display Screen Issue,5.9
+Samsung,Galaxy S25,3928,74999,294596072,4.4,344,36,Overheating,3.9
+Apple,iPhone 17 Pro,2267,89900,203803300,4.5,243,30,Camera Lag,2.2
+Samsung,Galaxy S25,4675,124999,584370325,4.5,720,55,Battery Drain,4.0
+Realme,Realme Narzo 70,5861,27222,159548142,4.4,1262,128,Battery Drain,5.6
+Apple,iPhone 16,811,89900,72908900,4.6,126,37,Display Screen Issue,2.4
+Samsung,Galaxy S25 Ultra,4853,74999,363970147,4.4,861,41,Software Bug,2.8
+Motorola,G54,7027,11237,78962399,4.1,1148,195,Software Bug,3.9
+Samsung,Galaxy S25,3329,74999,249671671,4.3,630,45,Camera Lag,3.6
+Realme,Realme C65,6091,23897,145556627,4.5,1285,241,Software Bug,4.3
+Motorola,G54,4202,36752,154431904,4.5,371,202,Display Screen Issue,5.2
+Apple,iPhone 17 Pro,819,79999,65519181,4.7,162,9,Display Screen Issue,1.7
+Samsung,Galaxy A17 5G,3136,24999,78396864,4.5,680,86,Software Bug,2.1
+Xiaomi,Redmi 12C,10447,19675,205544725,4.0,1197,257,Display Screen Issue,5.9
+Apple,iPhone 16,2487,89900,223581300,4.6,617,20,Camera Lag,1.5
+Xiaomi,POCO X6 Pro,9540,14439,137748060,4.5,2180,115,Camera Lag,5.8
+Samsung,Galaxy S25 Ultra,3122,24999,78046878,4.2,293,90,Display Screen Issue,2.7
+Vivo,Vivo T2 Pro,8374,19440,162790560,3.9,942,79,Camera Lag,4.5
+Xiaomi,Redmi Note 13 Pro,10615,25629,272051835,4.2,876,237,Battery Drain,5.5
+Motorola,G84 5G,10055,23369,234975295,4.2,2055,264,Software Bug,4.1
+Apple,iPhone 17,816,79999,65279184,4.7,86,19,Software Bug,1.9
+Motorola,Edge 60 Fusion,6348,22288,141484224,4.5,514,136,Battery Drain,5.0
+Apple,iPhone 15,1486,79999,118878514,4.7,334,16,Camera Lag,2.4
+Vivo,Vivo T2 Pro,6625,15031,99580375,4.2,1608,243,Software Bug,5.8
+Apple,iPhone 16,1935,119999,232198065,4.6,470,29,Slow Charging,1.9
+Samsung,Galaxy A56 5G,2703,14999,40542297,4.7,456,90,Display Screen Issue,3.5
+Motorola,Edge 60 Fusion,9191,17256,158599896,4.2,1764,187,Battery Drain,3.6
+Motorola,G54,10463,29887,312707681,4.0,1972,181,Display Screen Issue,4.7
+Motorola,Edge 60 Pro,9695,15789,153074355,4.1,2048,184,Overheating,4.1
+Vivo,Vivo V29 Pro,7734,36330,280976220,4.1,1386,71,Slow Charging,5.3
+Xiaomi,Redmi 12C,10416,12641,131668656,4.0,1856,95,Battery Drain,3.9
+Xiaomi,Redmi Note 13 Pro,6521,20830,135832430,3.9,1146,136,Slow Charging,4.8
+Motorola,G84 5G,11840,34498,408456320,4.1,2690,197,Camera Lag,4.0
+Motorola,Edge 60 Fusion,10544,13174,138906656,4.3,1170,69,Battery Drain,5.8
+Xiaomi,Xiaomi 14 Pro,9833,22810,224290730,4.1,2205,261,Software Bug,4.4
+Vivo,Vivo Y200 5G,4670,37912,177049040,4.0,705,89,Battery Drain,3.4
+Realme,Realme GT 6,8123,13420,109010660,4.4,834,170,Camera Lag,4.9
+Realme,Realme GT 6,11040,23223,256381920,4.0,899,111,Overheating,3.7
+Apple,iPhone 16,1117,89900,100418300,4.7,209,30,Overheating,1.3
+Vivo,Vivo Y200 5G,9429,31479,296815491,3.9,979,222,Overheating,4.1
+Samsung,Galaxy A17 5G,3105,24999,77621895,4.3,333,95,Camera Lag,3.8
+Xiaomi,Xiaomi 14 Pro,10499,28395,298119105,4.0,2130,169,Camera Lag,4.3
+Realme,Realme 12 Pro,10425,34949,364343325,4.0,1826,114,Camera Lag,6.0
+Realme,Realme 12 Pro,6878,35456,243866368,3.9,1147,253,Overheating,4.2
+Samsung,Galaxy A17 5G,4366,74999,327445634,4.5,364,81,Slow Charging,3.6
+Samsung,Galaxy S25,3204,74999,240296796,4.6,487,26,Camera Lag,3.4
+Xiaomi,Redmi Note 13 Pro,9238,30294,279855972,4.4,1891,166,Battery Drain,3.4
+Samsung,Galaxy A17 5G,3890,24999,97246110,4.5,745,81,Battery Drain,3.9
+Xiaomi,Redmi 12C,8843,36080,319055440,4.3,1483,280,Overheating,4.9
+Samsung,Galaxy S25 Ultra,4154,24999,103845846,4.6,1030,25,Slow Charging,3.3
+Xiaomi,Xiaomi 14 Pro,6862,12281,84272222,4.3,736,279,Camera Lag,3.6
+Realme,Realme 12 Pro,11142,38449,428398758,4.1,1712,267,Battery Drain,4.6
+Motorola,G54,7429,15325,113849425,4.0,1773,114,Display Screen Issue,5.6
+Vivo,Vivo T2 Pro,5215,32337,168637455,4.2,983,196,Software Bug,3.6
+Samsung,Galaxy S25,2045,124999,255622955,4.6,455,44,Slow Charging,1.9
+Xiaomi,Redmi Note 13 Pro,9831,34253,336741243,4.0,1521,99,Slow Charging,5.8
+Apple,iPhone 17 Pro,1128,139999,157918872,4.6,170,16,Display Screen Issue,2.6
+Xiaomi,Xiaomi 14 Pro,8316,20088,167051808,4.1,777,248,Battery Drain,4.0
+Vivo,Vivo Y200 5G,7117,35868,255272556,4.3,628,218,Display Screen Issue,3.8
+Xiaomi,Xiaomi 14 Pro,5533,35882,198535106,4.2,614,178,Software Bug,4.1
+Apple,iPhone 16,2418,79999,193437582,4.5,326,23,Display Screen Issue,1.9
+Xiaomi,POCO X6 Pro,7263,35312,256471056,4.0,1384,174,Software Bug,5.6
+Samsung,Galaxy S25,2585,14999,38772415,4.3,218,42,Camera Lag,2.9
+Realme,Realme 12 Pro,5128,25417,130338376,4.2,488,179,Overheating,5.5
+Xiaomi,Redmi 12C,8544,17832,152356608,4.0,1825,269,Slow Charging,3.8
+Apple,iPhone 15,1458,119999,174958542,4.5,307,21,Battery Drain,2.4
+Xiaomi,Redmi Note 13 Pro,4521,21629,97784709,4.4,490,120,Camera Lag,4.4
+Vivo,Vivo X100 Pro,9461,23801,225181261,4.3,1269,131,Slow Charging,5.3
+Vivo,Vivo Y200 5G,8530,24581,209675930,4.0,1524,259,Display Screen Issue,5.4
+Realme,Realme 12 Pro,10144,26778,271636032,4.3,2444,72,Camera Lag,3.4
+Realme,Realme 12 Pro,4874,27627,134653998,4.2,693,113,Display Screen Issue,5.8
+Apple,iPhone 16,2292,119999,275037708,4.5,548,21,Camera Lag,2.5
+Apple,iPhone 17 Pro,2345,119999,281397655,4.7,317,32,Overheating,2.5
+Samsung,Galaxy A56 5G,2010,14999,30147990,4.6,394,38,Display Screen Issue,3.7
+Vivo,Vivo T2 Pro,6067,19165,116274055,4.0,824,110,Overheating,4.5
+Samsung,Galaxy A56 5G,2417,74999,181272583,4.7,588,46,Camera Lag,3.5
+Realme,Realme GT 6,5868,36946,216799128,4.2,925,89,Camera Lag,4.8
+Xiaomi,POCO X6 Pro,11757,19678,231354246,4.5,1912,184,Battery Drain,5.1
+Apple,iPhone 17,1424,139999,199358576,4.6,132,10,Camera Lag,1.1
+Apple,iPhone 17,1779,89900,159932100,4.5,269,22,Slow Charging,2.7
+Realme,Realme 12 Pro,7265,11530,83765450,4.0,1361,236,Display Screen Issue,5.2
+Vivo,Vivo T2 Pro,4014,25297,101542158,4.2,747,100,Battery Drain,5.2
+Samsung,Galaxy S25 Ultra,4230,24999,105745770,4.5,343,89,Overheating,2.6
+Vivo,Vivo V29 Pro,8355,24696,206335080,4.3,1711,258,Display Screen Issue,4.7
+Motorola,Edge 60 Pro,11006,22401,246545406,4.0,1288,279,Software Bug,3.4
+Samsung,Galaxy S25,3002,74999,225146998,4.5,736,49,Overheating,3.6
+Apple,iPhone 16,1914,89900,172068600,4.8,273,19,Display Screen Issue,1.2
+Samsung,Galaxy S25,4719,74999,353920281,4.3,970,45,Overheating,2.4
+Samsung,Galaxy A56 5G,1575,124999,196873425,4.4,152,44,Software Bug,2.3
+Apple,iPhone 17 Pro,1808,119999,216958192,4.7,354,21,Software Bug,1.8
+Samsung,Galaxy A17 5G,4018,124999,502245982,4.3,602,81,Camera Lag,2.9
+Samsung,Galaxy S25,2125,24999,53122875,4.5,303,40,Overheating,3.4
+Realme,Realme GT 6,7691,36217,278544947,4.0,738,227,Display Screen Issue,4.8
+Vivo,Vivo V29 Pro,10414,13895,144702530,4.3,2500,109,Camera Lag,4.4
+Motorola,G54,10325,34931,360662575,4.0,1119,122,Battery Drain,5.0
+Motorola,Edge 60 Pro,11821,17715,209409015,4.5,2599,119,Battery Drain,5.9
+Xiaomi,Redmi 12C,7106,12068,85755208,4.2,1377,110,Slow Charging,4.2
+Motorola,Edge 60 Pro,9643,35511,342432573,4.0,2191,64,Camera Lag,4.2
+Vivo,Vivo V29 Pro,11322,37911,429228342,4.3,2066,73,Battery Drain,5.0
+Realme,Realme C65,7972,22050,175782600,4.1,1587,190,Battery Drain,5.7
+Samsung,Galaxy A56 5G,3980,124999,497496020,4.5,904,45,Software Bug,2.8
+Motorola,G54,10571,23063,243798973,4.1,1503,83,Software Bug,3.3
+Apple,iPhone 15,1164,139999,162958836,4.8,114,11,Software Bug,1.6
+Vivo,Vivo X100 Pro,8610,36212,311785320,4.3,1999,106,Slow Charging,3.9
+Realme,Realme 12 Pro,9674,38640,373803360,4.1,1314,202,Overheating,5.1
+Motorola,G54,4235,13864,58714040,4.5,597,163,Overheating,3.6
+Samsung,Galaxy S25,1736,74999,130198264,4.6,300,92,Camera Lag,2.2
+Motorola,G84 5G,8075,32876,265473700,3.9,1666,202,Camera Lag,3.4
+Realme,Realme 12 Pro,9535,36763,350535205,4.2,1460,240,Software Bug,3.3
+Xiaomi,POCO X6 Pro,5233,33313,174326929,4.4,1146,75,Display Screen Issue,5.7
+Vivo,Vivo V29 Pro,5524,27655,152766220,3.9,681,187,Display Screen Issue,4.7
+Xiaomi,Xiaomi 14 Pro,8141,36912,300500592,4.4,1866,234,Software Bug,3.5
+Samsung,Galaxy A17 5G,3913,124999,489121087,4.6,896,77,Slow Charging,2.1
+Vivo,Vivo V29 Pro,7871,22322,175696462,4.2,855,117,Overheating,4.6
+Apple,iPhone 15,1536,119999,184318464,4.5,271,34,Display Screen Issue,2.6
+Vivo,Vivo X100 Pro,4312,34269,147767928,4.2,509,172,Battery Drain,4.3
+Motorola,Edge 60 Pro,11994,28680,343987920,4.4,1779,119,Slow Charging,5.2
+Motorola,G84 5G,11044,29714,328161416,4.0,2051,145,Slow Charging,4.6
+Samsung,Galaxy S25,2495,124999,311872505,4.4,537,75,Battery Drain,1.8
+Xiaomi,Xiaomi 14 Pro,6334,26192,165900128,4.3,1170,258,Slow Charging,5.0
+Motorola,Edge 60 Fusion,8184,28911,236607624,3.9,665,163,Software Bug,4.8
+Xiaomi,Redmi 12C,9560,35657,340880920,4.0,1898,241,Camera Lag,5.1
+Motorola,G54,4364,36948,161241072,4.5,668,220,Camera Lag,4.6
+Samsung,Galaxy A56 5G,4092,24999,102295908,4.6,391,79,Battery Drain,3.5
+Vivo,Vivo V29 Pro,4540,30126,136772040,4.4,412,92,Software Bug,5.3
+Vivo,Vivo X100 Pro,4125,24816,102366000,4.2,822,200,Slow Charging,5.0
+Vivo,Vivo T2 Pro,10198,35938,366495724,4.3,2372,122,Slow Charging,5.4
+Realme,Realme Narzo 70,6163,13534,83410042,3.9,1035,261,Slow Charging,4.2
+Xiaomi,POCO X6 Pro,10607,19222,203887754,4.4,2512,275,Camera Lag,3.6
+Samsung,Galaxy A17 5G,2947,24999,73672053,4.4,586,87,Slow Charging,1.9
+Vivo,Vivo V29 Pro,8579,26028,223294212,4.0,1622,137,Software Bug,3.5
+Apple,iPhone 17,1412,139999,197678588,4.6,133,27,Software Bug,1.3
+Apple,iPhone 15,1310,139999,183398690,4.6,219,38,Display Screen Issue,1.7
+Realme,Realme C65,10248,35852,367411296,4.4,881,72,Slow Charging,3.4
+Realme,Realme GT 6,8726,29308,255741608,4.3,1343,161,Slow Charging,5.0
+Apple,iPhone 15,1065,79999,85198935,4.6,125,25,Display Screen Issue,1.4
+Xiaomi,Xiaomi 14 Pro,6472,36807,238214904,4.3,705,95,Slow Charging,4.7
+Apple,iPhone 16,2183,139999,305617817,4.6,286,25,Battery Drain,1.0
+Motorola,G54,8538,12961,110661018,4.5,1107,231,Software Bug,4.0
+Xiaomi,Redmi Note 13 Pro,6195,23161,143482395,4.3,1327,257,Overheating,5.0
+Motorola,G54,6450,22708,146466600,4.2,729,93,Overheating,5.3
+Vivo,Vivo X100 Pro,8441,37824,319272384,4.0,1054,228,Software Bug,5.9
+Xiaomi,Xiaomi 14 Pro,10789,21969,237023541,4.4,1139,192,Battery Drain,5.9
+Apple,iPhone 15,2429,89900,218367100,4.7,373,28,Slow Charging,1.9
+Samsung,Galaxy S25,4037,124999,504620963,4.6,952,46,Software Bug,2.6
+Xiaomi,Redmi Note 13 Pro,5913,25742,152212446,4.2,1392,244,Battery Drain,3.7
+Xiaomi,Redmi Note 13 Pro,10831,29114,315333734,4.2,2076,78,Camera Lag,4.4
+Vivo,Vivo Y200 5G,8728,28104,245291712,3.9,1785,273,Slow Charging,5.7
+Motorola,G84 5G,10788,21467,231585996,4.5,1233,147,Battery Drain,4.0
+Motorola,G84 5G,5653,34447,194728891,4.5,562,182,Software Bug,3.7
+Realme,Realme GT 6,6970,11101,77373970,4.3,1549,204,Battery Drain,3.6
+Motorola,Edge 60 Fusion,9936,31684,314812224,4.5,2232,166,Battery Drain,4.7
+Vivo,Vivo T2 Pro,11101,28372,314957572,4.5,1572,81,Battery Drain,3.4
+Xiaomi,Redmi 12C,9290,21203,196975870,3.9,1884,192,Overheating,4.8
+Vivo,Vivo T2 Pro,11491,20005,229877455,4.0,2143,278,Slow Charging,5.9
+Samsung,Galaxy A56 5G,4106,24999,102645894,4.6,394,40,Overheating,2.0
+Vivo,Vivo T2 Pro,4427,21140,93586780,4.1,910,114,Display Screen Issue,4.9
+Apple,iPhone 17 Pro,2302,139999,322277698,4.5,403,36,Software Bug,2.4
+Apple,iPhone 15,1758,79999,140638242,4.5,185,5,Software Bug,1.4
+Samsung,Galaxy S25 Ultra,2889,24999,72222111,4.2,431,26,Overheating,2.4
+Vivo,Vivo X100 Pro,10467,27489,287727363,4.1,1325,243,Camera Lag,3.5
+Vivo,Vivo T2 Pro,11304,24900,281469600,4.2,2663,134,Overheating,4.6
+Samsung,Galaxy S25,1750,24999,43748250,4.5,144,30,Slow Charging,3.2
+Xiaomi,POCO X6 Pro,8511,20179,171743469,3.9,1118,76,Camera Lag,5.8
+Realme,Realme C65,10387,21866,227122142,3.9,1131,193,Overheating,3.8
+Samsung,Galaxy S25,1843,14999,27643157,4.4,326,77,Overheating,2.8
+Motorola,Edge 60 Pro,11863,23619,280192197,4.4,1754,68,Display Screen Issue,4.3
+Realme,Realme Narzo 70,6522,20355,132755310,4.5,834,132,Camera Lag,4.8
+Realme,Realme Narzo 70,11351,12266,139231366,4.3,1440,60,Slow Charging,4.9
+Vivo,Vivo X100 Pro,9336,29101,271686936,4.2,781,119,Battery Drain,5.5
+Motorola,Edge 60 Pro,5770,31328,180762560,4.2,1247,112,Overheating,5.8
+Xiaomi,Redmi Note 13 Pro,11393,12063,137433759,3.9,1750,183,Slow Charging,4.2
+Apple,iPhone 15,934,89900,83966600,4.8,156,16,Battery Drain,1.3
+Realme,Realme 12 Pro,4007,21912,87801384,4.3,971,117,Battery Drain,3.9
+Vivo,Vivo Y200 5G,8745,26800,234366000,4.2,1310,234,Camera Lag,4.7
+Samsung,Galaxy A56 5G,3684,124999,460496316,4.4,531,57,Display Screen Issue,3.6
+Motorola,Edge 60 Fusion,4241,26868,113947188,4.1,586,153,Overheating,4.9
+Realme,Realme 12 Pro,8493,28441,241549413,4.4,1353,66,Battery Drain,3.4
+Motorola,G84 5G,7111,34910,248245010,4.0,1541,127,Software Bug,4.4
+Samsung,Galaxy A56 5G,4669,124999,583620331,4.2,685,40,Overheating,3.5
+Realme,Realme 12 Pro,5201,34087,177286487,4.2,832,84,Battery Drain,5.4
+Motorola,Edge 60 Fusion,8770,17790,156018300,4.1,2177,141,Camera Lag,4.9
+Apple,iPhone 15,1740,119999,208798260,4.5,430,9,Software Bug,1.9
+Realme,Realme Narzo 70,6975,28016,195411600,4.0,606,117,Software Bug,4.3
+Samsung,Galaxy A56 5G,3532,14999,52976468,4.2,704,27,Battery Drain,3.5
+Motorola,G84 5G,9723,13962,135752526,4.5,2190,88,Overheating,3.9
+Vivo,Vivo V29 Pro,5977,21820,130418140,4.3,529,266,Camera Lag,3.5
+Vivo,Vivo Y200 5G,7073,34991,247491343,3.9,1458,86,Overheating,4.9
+Xiaomi,Xiaomi 14 Pro,5403,23145,125052435,4.2,912,176,Slow Charging,5.0
+Motorola,G84 5G,10587,28026,296711262,4.3,1623,71,Camera Lag,5.8
+Apple,iPhone 17 Pro,1777,119999,213238223,4.7,353,30,Battery Drain,1.7
+Apple,iPhone 17 Pro,1721,79999,137678279,4.7,312,28,Battery Drain,1.9
+Vivo,Vivo X100 Pro,11750,33586,394635500,4.3,1577,181,Software Bug,4.5
+Apple,iPhone 15,882,139999,123479118,4.7,106,13,Software Bug,1.9
+Samsung,Galaxy S25,4885,124999,610620115,4.3,862,64,Slow Charging,3.9
+Vivo,Vivo V29 Pro,10048,22535,226431680,4.4,1103,91,Software Bug,5.5
+Motorola,G84 5G,9782,15572,152325304,4.2,2135,90,Display Screen Issue,4.6
+Realme,Realme C65,9925,22638,224682150,4.4,1483,120,Camera Lag,3.4
+Motorola,G54,6704,19419,130184976,4.0,729,263,Slow Charging,4.7
+Samsung,Galaxy A17 5G,4602,124999,575245398,4.5,517,73,Camera Lag,2.2
+Vivo,Vivo V29 Pro,6886,38479,264966394,4.2,994,272,Camera Lag,3.2
+Realme,Realme 12 Pro,10475,15840,165924000,4.4,2041,187,Slow Charging,4.0
+Samsung,Galaxy S25,4355,74999,326620645,4.5,469,37,Software Bug,3.7
+Vivo,Vivo X100 Pro,5008,11278,56480224,4.3,657,170,Overheating,3.4
+Vivo,Vivo T2 Pro,10696,37682,403046672,4.3,2490,71,Display Screen Issue,5.6
+Apple,iPhone 15,2403,89900,216029700,4.5,283,26,Software Bug,1.7
+Samsung,Galaxy S25,4371,24999,109270629,4.3,672,34,Slow Charging,3.7
+Realme,Realme GT 6,9121,11697,106688337,4.2,1084,174,Camera Lag,3.5
+Xiaomi,Redmi 12C,4742,25012,118606904,4.3,1159,103,Overheating,4.7
+Vivo,Vivo T2 Pro,11088,19585,217158480,4.0,1824,277,Software Bug,3.8
+Samsung,Galaxy S25 Ultra,3746,14999,56186254,4.7,755,81,Software Bug,3.0
+Motorola,G54,9945,12342,122741190,4.1,2352,147,Overheating,5.8
+Xiaomi,POCO X6 Pro,11831,16672,197246432,4.5,1400,222,Overheating,4.4
+Vivo,Vivo X100 Pro,5637,11540,65050980,4.3,527,114,Slow Charging,5.0
+Realme,Realme C65,5644,19522,110182168,4.1,1326,278,Slow Charging,4.6
+Realme,Realme Narzo 70,6180,21348,131930640,4.3,618,276,Display Screen Issue,5.7
+Realme,Realme C65,10339,15371,158920769,4.0,829,211,Battery Drain,5.9
+Motorola,G84 5G,4845,38149,184831905,4.5,1185,247,Display Screen Issue,5.7
+Vivo,Vivo Y200 5G,8479,24211,205285069,4.2,1000,85,Slow Charging,4.9
+Motorola,G54,5117,36219,185332623,4.1,483,226,Overheating,5.6
+Vivo,Vivo X100 Pro,10034,21880,219543920,4.2,1369,246,Display Screen Issue,5.5
+Vivo,Vivo Y200 5G,9030,11315,102174450,3.9,1925,89,Slow Charging,5.4
+Motorola,G84 5G,10181,31746,323206026,4.4,1637,182,Display Screen Issue,5.4
+Realme,Realme GT 6,7477,24154,180599458,4.4,918,220,Camera Lag,3.9
+Apple,iPhone 17 Pro,1681,79999,134478319,4.6,344,13,Camera Lag,1.7
+Vivo,Vivo Y200 5G,11370,13146,149470020,4.2,2698,131,Battery Drain,5.1
+Apple,iPhone 17,1579,139999,221058421,4.6,157,37,Display Screen Issue,1.0
+Motorola,G54,9109,31660,288390940,4.2,1789,232,Display Screen Issue,5.4
+Realme,Realme Narzo 70,5521,35151,194068671,4.4,607,60,Display Screen Issue,5.0
+Apple,iPhone 17 Pro,1764,89900,158583600,4.6,216,11,Slow Charging,2.2
+Vivo,Vivo T2 Pro,6278,23306,146315068,4.4,707,224,Overheating,3.6
+Xiaomi,Redmi 12C,6930,15282,105904260,3.9,1577,221,Overheating,5.2
+Samsung,Galaxy A17 5G,3563,14999,53441437,4.6,386,54,Slow Charging,3.1
+Vivo,Vivo V29 Pro,7811,35943,280750773,4.0,625,156,Display Screen Issue,5.2
+Vivo,Vivo T2 Pro,6323,15003,94863969,4.3,1304,227,Overheating,5.9
+Apple,iPhone 17,2197,79999,175757803,4.7,348,36,Camera Lag,2.1
+Motorola,Edge 60 Pro,4330,37911,164154630,4.1,1033,276,Display Screen Issue,3.5
+Realme,Realme Narzo 70,7731,35884,277419204,4.0,1599,268,Software Bug,5.1
+Realme,Realme C65,5063,26407,133698641,4.3,878,181,Slow Charging,3.9
+Motorola,Edge 60 Pro,4884,35490,173333160,4.0,865,173,Battery Drain,4.1
+Motorola,G54,6371,19210,122386910,4.1,964,105,Camera Lag,4.4
+Xiaomi,Xiaomi 14 Pro,8186,36080,295350880,4.0,1427,72,Slow Charging,5.4
+Xiaomi,Redmi Note 13 Pro,5730,33001,189095730,4.3,749,231,Overheating,5.2
+Xiaomi,Xiaomi 14 Pro,11725,27466,322038850,4.3,2186,256,Overheating,4.1
+Vivo,Vivo Y200 5G,6880,26373,181446240,4.3,1247,170,Overheating,6.0
+Motorola,G54,7092,21549,152825508,4.4,1059,189,Camera Lag,3.6
+Realme,Realme GT 6,7045,20317,143133265,4.1,1548,111,Overheating,4.6
+Realme,Realme Narzo 70,10617,27481,291765777,4.1,910,192,Camera Lag,4.9
+Motorola,Edge 60 Pro,9613,37604,361487252,4.2,1550,161,Display Screen Issue,5.3
+Xiaomi,Xiaomi 14 Pro,11665,37041,432083265,4.5,1453,277,Battery Drain,4.8
+Realme,Realme 12 Pro,9577,27790,266144830,3.9,1756,231,Slow Charging,3.5
+Apple,iPhone 17,1370,119999,164398630,4.7,335,30,Display Screen Issue,1.5
+Motorola,G54,8768,11278,98885504,4.4,1573,92,Overheating,5.1
+Apple,iPhone 17,1033,89900,92866700,4.6,243,40,Slow Charging,1.9
+Samsung,Galaxy S25 Ultra,3622,74999,271646378,4.5,847,53,Slow Charging,3.0
+Apple,iPhone 15,1826,139999,255638174,4.6,200,27,Camera Lag,1.2
+Apple,iPhone 17 Pro,895,79999,71599105,4.7,178,38,Camera Lag,1.5
+Samsung,Galaxy A56 5G,3760,124999,469996240,4.4,519,35,Software Bug,2.0
+Xiaomi,Redmi 12C,7740,18921,146448540,4.3,1835,227,Camera Lag,3.6
+Samsung,Galaxy A17 5G,2952,14999,44277048,4.6,665,29,Display Screen Issue,1.9
+Vivo,Vivo V29 Pro,10268,36226,371968568,3.9,983,195,Battery Drain,5.9
+Samsung,Galaxy A56 5G,1910,74999,143248090,4.3,206,52,Camera Lag,3.1
+Realme,Realme Narzo 70,6648,20704,137640192,4.1,1018,251,Slow Charging,4.5
+Samsung,Galaxy S25,3058,24999,76446942,4.6,729,89,Display Screen Issue,3.3
+Xiaomi,POCO X6 Pro,4594,12730,58481620,4.3,975,209,Software Bug,4.7
+Xiaomi,Redmi Note 13 Pro,4263,20149,85895187,4.3,718,258,Slow Charging,3.6
+Motorola,Edge 60 Fusion,8177,18709,152983493,4.4,1536,233,Display Screen Issue,5.2
+Vivo,Vivo T2 Pro,8095,29794,241182430,4.3,898,65,Software Bug,4.9
+Motorola,Edge 60 Fusion,9967,16342,162880714,4.2,1177,72,Software Bug,5.4
+Realme,Realme GT 6,9847,22827,224777469,4.3,1712,250,Software Bug,5.5
+Xiaomi,Redmi 12C,10267,11097,113932899,4.4,1071,254,Overheating,3.3
+Xiaomi,POCO X6 Pro,10627,22746,241721742,4.3,1135,95,Software Bug,5.6
+Vivo,Vivo Y200 5G,7509,33544,251881896,4.4,1296,174,Camera Lag,3.9
+Vivo,Vivo Y200 5G,11584,32810,380071040,4.0,2301,62,Software Bug,3.7
+Motorola,G54,5447,21200,115476400,4.3,1303,165,Software Bug,3.6
+Apple,iPhone 16,2338,139999,327317662,4.7,253,39,Overheating,1.2
+Samsung,Galaxy S25,1692,74999,126898308,4.5,164,70,Slow Charging,2.1
+Xiaomi,Xiaomi 14 Pro,8281,24373,201832813,4.2,835,98,Battery Drain,5.9
+Samsung,Galaxy S25 Ultra,4822,124999,602745178,4.6,1167,21,Camera Lag,3.8
+Xiaomi,Xiaomi 14 Pro,9011,15929,143536219,4.2,869,201,Battery Drain,4.3
+Motorola,G84 5G,6791,15500,105260500,4.3,587,183,Camera Lag,4.9
+Realme,Realme C65,5102,11304,57673008,4.3,787,140,Camera Lag,4.7
+Vivo,Vivo T2 Pro,10997,15957,175479129,4.4,1265,79,Display Screen Issue,3.6
+Xiaomi,Redmi Note 13 Pro,6662,37957,252869534,4.3,1297,270,Battery Drain,3.9
+Xiaomi,Redmi Note 13 Pro,4686,17919,83968434,4.1,868,123,Display Screen Issue,5.5
+Xiaomi,POCO X6 Pro,11578,14216,164592848,4.1,2701,172,Slow Charging,5.1
+Vivo,Vivo V29 Pro,6654,23513,156455502,4.0,563,96,Camera Lag,3.4
+Vivo,Vivo Y200 5G,10242,14060,144002520,4.0,2510,85,Camera Lag,4.0
+Xiaomi,Redmi 12C,7920,24400,193248000,4.1,998,118,Slow Charging,4.6
+Vivo,Vivo V29 Pro,4888,23076,112795488,4.1,1031,74,Overheating,4.9
+Motorola,Edge 60 Pro,7280,26204,190765120,4.1,893,239,Camera Lag,3.8
+Vivo,Vivo Y200 5G,9328,26472,246930816,4.4,2126,202,Software Bug,5.3
+Vivo,Vivo V29 Pro,4645,29112,135225240,4.4,722,63,Battery Drain,4.6
+Apple,iPhone 16,1376,119999,165118624,4.5,200,27,Battery Drain,1.2
+Motorola,G84 5G,11695,27037,316197715,4.1,1161,116,Overheating,5.3
+Xiaomi,Redmi Note 13 Pro,11782,17030,200647460,3.9,2195,224,Camera Lag,4.9
+Apple,iPhone 17,1230,119999,147598770,4.5,233,21,Overheating,1.8
+Xiaomi,POCO X6 Pro,5341,29347,156742327,4.5,476,234,Battery Drain,5.7
+Vivo,Vivo T2 Pro,11762,36943,434523566,4.4,1384,160,Software Bug,3.4
+Realme,Realme Narzo 70,11294,30257,341722558,4.2,1113,222,Software Bug,5.2
+Xiaomi,Redmi Note 13 Pro,5374,20045,107721830,4.0,917,255,Battery Drain,5.7
+Apple,iPhone 15,1323,139999,185218677,4.7,177,22,Software Bug,1.1
+Motorola,Edge 60 Pro,5482,13024,71397568,4.0,1308,187,Software Bug,3.8
+Motorola,G54,4841,35293,170853413,4.3,1197,182,Display Screen Issue,5.5
+Vivo,Vivo T2 Pro,7180,35715,256433700,4.2,1234,222,Battery Drain,5.3
+Xiaomi,POCO X6 Pro,6323,14862,93972426,4.2,791,86,Battery Drain,4.3
+Xiaomi,Redmi Note 13 Pro,4025,12573,50606325,4.4,528,152,Overheating,4.1
+Vivo,Vivo V29 Pro,6674,30631,204431294,4.2,1619,201,Overheating,4.8
+Apple,iPhone 17 Pro,961,79999,76879039,4.5,206,13,Camera Lag,2.1
+Vivo,Vivo V29 Pro,6599,20056,132349544,4.3,727,117,Slow Charging,4.6
+Vivo,Vivo T2 Pro,4097,27401,112261897,4.1,961,90,Battery Drain,5.6
+Apple,iPhone 17 Pro,2201,89900,197869900,4.6,408,35,Slow Charging,2.1
+Motorola,Edge 60 Pro,7108,13256,94223648,4.1,1638,142,Battery Drain,5.2
+Vivo,Vivo T2 Pro,5490,31054,170486460,4.5,638,241,Display Screen Issue,4.3
+Samsung,Galaxy S25 Ultra,3376,24999,84396624,4.3,386,66,Display Screen Issue,2.8
+Apple,iPhone 17 Pro,2253,139999,315417747,4.7,187,29,Camera Lag,2.0
+Motorola,Edge 60 Fusion,7572,17567,133017324,4.2,780,171,Software Bug,4.9
+Vivo,Vivo T2 Pro,11478,26807,307690746,4.3,2551,176,Display Screen Issue,3.4
+Apple,iPhone 16,1410,89900,126759000,4.7,284,8,Overheating,1.1
+Apple,iPhone 17 Pro,2295,79999,183597705,4.8,299,24,Camera Lag,1.8
+Realme,Realme C65,11511,36996,425860956,4.5,2451,187,Slow Charging,5.5
+Realme,Realme Narzo 70,9342,20672,193117824,3.9,1817,68,Slow Charging,4.8
+Motorola,G54,7078,14634,103579452,4.3,1530,182,Software Bug,6.0
+Xiaomi,POCO X6 Pro,5369,28558,153327902,3.9,957,130,Overheating,4.5
+Apple,iPhone 15,1417,139999,198378583,4.7,296,35,Display Screen Issue,2.4
+Realme,Realme C65,7012,29711,208333532,4.4,880,271,Overheating,5.6
+Realme,Realme Narzo 70,10169,38631,392838639,3.9,2401,163,Software Bug,3.5
+Apple,iPhone 15,2318,139999,324517682,4.6,490,11,Slow Charging,1.3
+Apple,iPhone 16,1954,79999,156318046,4.7,487,8,Slow Charging,1.6
+Realme,Realme GT 6,10030,11662,116969860,4.5,1165,148,Display Screen Issue,3.6
+Realme,Realme Narzo 70,11479,16276,186832204,4.3,1257,150,Slow Charging,5.7
+Realme,Realme C65,11340,31055,352163700,4.1,2548,216,Software Bug,4.3
+Vivo,Vivo X100 Pro,8246,11043,91060578,4.1,1791,73,Display Screen Issue,3.6
+Realme,Realme 12 Pro,5924,16160,95731840,4.5,1121,163,Camera Lag,4.8
+Motorola,Edge 60 Fusion,5739,33133,190150287,4.0,663,267,Overheating,4.6
+Samsung,Galaxy S25 Ultra,4577,24999,114420423,4.7,1088,89,Battery Drain,3.9
+Motorola,G54,10100,26291,265539100,4.1,944,100,Camera Lag,3.4
+Realme,Realme C65,6553,31688,207651464,4.0,1573,241,Camera Lag,5.5
+Xiaomi,Redmi 12C,4000,37666,150664000,4.2,549,116,Overheating,3.7
+Samsung,Galaxy S25 Ultra,1507,74999,113023493,4.3,192,29,Slow Charging,2.5
+Motorola,Edge 60 Fusion,10858,26392,286564336,4.0,2319,248,Display Screen Issue,5.7
+Realme,Realme Narzo 70,9535,15505,147840175,4.2,1736,72,Software Bug,4.9
+Motorola,Edge 60 Pro,11979,32956,394779924,4.2,2618,268,Slow Charging,5.3
+Xiaomi,Redmi Note 13 Pro,4635,25738,119295630,3.9,479,225,Display Screen Issue,6.0
+Xiaomi,POCO X6 Pro,8177,27659,226167643,4.0,1090,188,Slow Charging,5.1
+Samsung,Galaxy S25,1780,24999,44498220,4.6,261,87,Camera Lag,3.8
+Vivo,Vivo T2 Pro,7237,30264,219020568,4.4,1030,119,Battery Drain,3.9
+Xiaomi,POCO X6 Pro,5762,35648,205403776,4.0,1426,64,Camera Lag,3.4
+Realme,Realme GT 6,8373,30512,255476976,4.0,1100,101,Slow Charging,3.5
+Vivo,Vivo Y200 5G,7107,16209,115197363,4.2,1472,275,Camera Lag,4.0
+Apple,iPhone 17 Pro,2023,79999,161837977,4.7,464,31,Display Screen Issue,2.6
+Realme,Realme GT 6,4501,27260,122697260,4.0,1041,271,Battery Drain,5.6
+Apple,iPhone 16,1920,89900,172608000,4.7,389,28,Overheating,1.5
+Realme,Realme Narzo 70,10734,15708,168609672,4.3,2357,202,Display Screen Issue,4.9
+Apple,iPhone 16,1281,139999,179338719,4.8,305,14,Display Screen Issue,1.6
+Xiaomi,Redmi Note 13 Pro,8239,20955,172648245,4.0,1493,214,Display Screen Issue,5.4
+Apple,iPhone 17,1353,89900,121634700,4.7,118,37,Overheating,2.5
+Realme,Realme GT 6,7831,34701,271743531,3.9,1723,138,Software Bug,4.0
+Vivo,Vivo V29 Pro,6572,19282,126721304,4.3,889,88,Slow Charging,5.9
+Apple,iPhone 16,2000,79999,159998000,4.7,435,13,Overheating,1.2
+Realme,Realme C65,8470,14451,122399970,4.4,1227,70,Software Bug,5.7
+Vivo,Vivo Y200 5G,7471,37422,279579762,4.2,1306,205,Slow Charging,3.3
+Vivo,Vivo T2 Pro,11168,22227,248231136,4.0,1150,221,Camera Lag,3.3
+Xiaomi,Redmi Note 13 Pro,6281,19634,123321154,4.1,521,174,Battery Drain,5.5
+Xiaomi,Xiaomi 14 Pro,5559,33758,187660722,4.4,828,249,Software Bug,3.6
+Apple,iPhone 16,1038,119999,124558962,4.7,182,19,Overheating,1.5
+Xiaomi,Xiaomi 14 Pro,4113,36210,148931730,4.4,917,88,Slow Charging,5.3
+Realme,Realme GT 6,5049,23643,119373507,4.5,683,72,Display Screen Issue,5.1
+Realme,Realme 12 Pro,4613,12045,55563585,4.0,506,279,Slow Charging,4.5
+Xiaomi,Xiaomi 14 Pro,4341,38803,168443823,4.4,1080,215,Camera Lag,6.0
+Realme,Realme C65,5875,20258,119015750,4.1,812,75,Software Bug,3.3
+Apple,iPhone 16,1843,79999,147438157,4.7,299,35,Battery Drain,1.3
+Xiaomi,POCO X6 Pro,9336,35785,334088760,4.1,2257,118,Overheating,4.9
+Apple,iPhone 15,2258,119999,270957742,4.8,263,8,Battery Drain,1.8
+Vivo,Vivo V29 Pro,7398,15057,111391686,3.9,1438,262,Battery Drain,5.0
+Samsung,Galaxy S25,2668,124999,333497332,4.4,649,23,Battery Drain,2.6
+Vivo,Vivo X100 Pro,4472,37622,168245584,4.0,521,79,Slow Charging,5.4
+Xiaomi,Redmi Note 13 Pro,7683,35712,274375296,4.2,778,234,Display Screen Issue,5.0
+Xiaomi,Xiaomi 14 Pro,11366,28330,321998780,4.5,1404,116,Display Screen Issue,5.2
+Xiaomi,POCO X6 Pro,8235,24972,205644420,4.3,1598,160,Camera Lag,3.5
+Apple,iPhone 17 Pro,1195,89900,107430500,4.6,243,14,Software Bug,2.7
+Motorola,Edge 60 Pro,7725,14334,110730150,4.4,1858,226,Software Bug,4.7
+Samsung,Galaxy A56 5G,4446,74999,333445554,4.2,1046,50,Overheating,2.7
+Vivo,Vivo X100 Pro,10309,13225,136336525,4.1,1841,153,Display Screen Issue,5.7
+Samsung,Galaxy S25 Ultra,2341,74999,175572659,4.4,411,56,Battery Drain,2.3
+Vivo,Vivo T2 Pro,9342,15962,149117004,4.2,1494,255,Display Screen Issue,3.4
+Xiaomi,POCO X6 Pro,9015,26239,236544585,4.2,1012,233,Camera Lag,5.6
+Samsung,Galaxy S25 Ultra,3117,14999,46751883,4.6,756,51,Display Screen Issue,3.3
+Samsung,Galaxy A56 5G,4259,74999,319420741,4.6,1023,53,Display Screen Issue,3.6
+Realme,Realme C65,8416,21956,184781696,4.0,740,86,Display Screen Issue,5.7
+Samsung,Galaxy S25 Ultra,2613,24999,65322387,4.3,252,81,Battery Drain,3.5
+Motorola,G84 5G,11054,22835,252418090,3.9,2410,170,Overheating,5.3
+Apple,iPhone 17 Pro,894,119999,107279106,4.7,86,6,Display Screen Issue,1.2
+Vivo,Vivo T2 Pro,8711,23765,207016915,4.3,917,254,Camera Lag,4.5
+Motorola,Edge 60 Pro,4026,16380,65945880,3.9,1004,100,Slow Charging,4.1
+Samsung,Galaxy A56 5G,1707,14999,25603293,4.6,158,64,Overheating,2.1
+Motorola,Edge 60 Fusion,4289,19869,85218141,4.1,921,85,Display Screen Issue,4.5
+Motorola,G54,9257,29519,273257383,4.3,1490,206,Display Screen Issue,4.7
+Realme,Realme C65,5274,33144,174801456,4.4,1145,275,Display Screen Issue,4.5
+Realme,Realme Narzo 70,11016,26806,295294896,4.4,1414,87,Display Screen Issue,4.5
+Samsung,Galaxy S25,3127,24999,78171873,4.4,649,74,Overheating,3.2
+Realme,Realme C65,9341,11961,111727701,4.4,1072,63,Slow Charging,5.1
+Vivo,Vivo Y200 5G,6917,33055,228641435,4.2,685,111,Battery Drain,5.2
+Vivo,Vivo X100 Pro,9972,33449,333553428,4.4,2432,240,Camera Lag,3.8
+Samsung,Galaxy S25,4861,74999,364570139,4.4,723,43,Overheating,2.8
+Realme,Realme 12 Pro,11646,12841,149546286,4.5,2350,261,Slow Charging,3.3
+Apple,iPhone 15,1295,119999,155398705,4.6,115,28,Software Bug,2.5
+Realme,Realme C65,4938,25933,128057154,4.1,1024,241,Slow Charging,4.7
+Apple,iPhone 16,2174,119999,260877826,4.8,416,39,Battery Drain,2.4
+Vivo,Vivo V29 Pro,10467,11857,124107219,4.1,1324,269,Slow Charging,4.0
+Xiaomi,Redmi Note 13 Pro,8853,28240,250008720,4.4,1565,216,Software Bug,3.5
+Realme,Realme GT 6,5718,38096,217832928,4.0,1084,256,Camera Lag,5.1
+Apple,iPhone 16,1248,89900,112195200,4.7,174,10,Software Bug,2.4
+Apple,iPhone 16,2319,119999,278277681,4.6,461,25,Camera Lag,1.1
+Samsung,Galaxy S25,2092,74999,156897908,4.2,438,37,Overheating,2.7
+Samsung,Galaxy A17 5G,2093,14999,31392907,4.7,293,81,Overheating,4.0
+Realme,Realme GT 6,8521,12401,105668921,4.2,1766,128,Slow Charging,4.8
+Motorola,G54,5422,26999,146388578,4.0,760,175,Software Bug,5.8
+Vivo,Vivo Y200 5G,4338,31807,137978766,4.3,838,170,Battery Drain,4.7
+Samsung,Galaxy A56 5G,2472,24999,61797528,4.4,286,73,Camera Lag,3.2
+Vivo,Vivo V29 Pro,5679,13054,74133666,4.4,709,254,Battery Drain,3.9
+Realme,Realme C65,6830,35665,243591950,4.3,614,133,Slow Charging,3.6
+Motorola,G54,5895,26526,156370770,4.0,924,83,Camera Lag,3.3
+Vivo,Vivo X100 Pro,5571,21533,119960343,4.5,654,152,Display Screen Issue,5.8
+Realme,Realme GT 6,5269,33713,177633797,4.0,888,81,Camera Lag,5.5
+Xiaomi,Redmi Note 13 Pro,5287,18651,98607837,4.1,1091,151,Camera Lag,5.8
+Motorola,G84 5G,9735,30733,299185755,4.0,1157,246,Camera Lag,4.0
+Samsung,Galaxy A56 5G,4184,74999,313795816,4.3,646,31,Display Screen Issue,3.3
+Motorola,Edge 60 Pro,11761,32189,378574829,4.4,1959,241,Camera Lag,5.6
+Samsung,Galaxy S25,3757,74999,281771243,4.7,570,76,Overheating,2.1
+Apple,iPhone 16,1873,119999,224758127,4.8,244,18,Battery Drain,1.1
+Realme,Realme C65,8335,25886,215759810,4.2,1171,161,Display Screen Issue,3.5
+Vivo,Vivo Y200 5G,10675,32961,351858675,3.9,1829,79,Overheating,5.6
+Vivo,Vivo X100 Pro,11801,37121,438064921,4.2,2043,222,Software Bug,4.6
+Realme,Realme GT 6,11251,27305,307208555,4.3,1653,93,Display Screen Issue,5.1
+Samsung,Galaxy S25,2839,24999,70972161,4.2,428,74,Battery Drain,3.1
+Motorola,Edge 60 Fusion,5468,16681,91211708,4.0,749,259,Slow Charging,4.7
+Xiaomi,Redmi 12C,6741,25900,174591900,4.2,1237,67,Camera Lag,5.5
+Xiaomi,Xiaomi 14 Pro,6607,22169,146470583,3.9,731,141,Battery Drain,5.5
+Motorola,G84 5G,4430,18456,81760080,4.2,386,264,Slow Charging,5.8
+Realme,Realme 12 Pro,5527,31036,171535972,4.3,1289,279,Camera Lag,5.6
+Realme,Realme Narzo 70,7668,22147,169823196,4.4,674,257,Overheating,5.4
+Realme,Realme C65,11784,28155,331778520,4.0,1414,233,Battery Drain,5.4
+Vivo,Vivo T2 Pro,6681,28503,190428543,4.5,934,84,Slow Charging,3.3
+Samsung,Galaxy S25 Ultra,2310,24999,57747690,4.2,246,80,Display Screen Issue,2.8
+Realme,Realme Narzo 70,9642,11683,112647486,4.4,1098,195,Camera Lag,3.8
+Samsung,Galaxy A17 5G,3816,74999,286196184,4.7,750,42,Camera Lag,3.9
+Vivo,Vivo T2 Pro,10791,35531,383415021,4.0,2499,271,Camera Lag,3.8
+Vivo,Vivo X100 Pro,6876,25872,177895872,4.4,594,193,Camera Lag,4.9
+Motorola,Edge 60 Fusion,10504,27264,286381056,4.1,1861,180,Display Screen Issue,4.4
+Realme,Realme Narzo 70,8521,18996,161864916,4.3,1717,134,Display Screen Issue,3.4
+Vivo,Vivo T2 Pro,6799,21120,143594880,4.5,546,207,Slow Charging,4.3
+Vivo,Vivo V29 Pro,9563,16001,153017563,4.1,1178,121,Overheating,5.8
+Apple,iPhone 17 Pro,1838,79999,147038162,4.5,244,29,Battery Drain,1.2
+Samsung,Galaxy S25,2715,24999,67872285,4.3,453,43,Display Screen Issue,1.9
+Apple,iPhone 16,1371,79999,109678629,4.6,185,31,Battery Drain,1.8
+Xiaomi,POCO X6 Pro,10704,25772,275863488,4.4,2323,264,Overheating,5.7
+Motorola,G84 5G,8507,22143,188370501,4.2,1506,248,Software Bug,4.0
+Realme,Realme GT 6,5236,27579,144403644,4.1,1033,237,Battery Drain,5.2
+Xiaomi,Redmi Note 13 Pro,11787,37556,442672572,4.3,1664,203,Display Screen Issue,5.7
+Vivo,Vivo Y200 5G,4787,13143,62915541,4.5,892,97,Camera Lag,3.4
+Realme,Realme C65,11215,25184,282438560,4.1,1722,179,Battery Drain,4.7
+Apple,iPhone 15,958,119999,114959042,4.6,204,28,Display Screen Issue,1.0
+Vivo,Vivo V29 Pro,10631,14288,151895728,4.5,2322,78,Slow Charging,4.2
+Motorola,G84 5G,8746,13020,113872920,4.2,1971,146,Software Bug,5.6
+Apple,iPhone 17 Pro,1021,79999,81678979,4.5,143,14,Camera Lag,2.5
+Realme,Realme GT 6,7414,29536,218979904,4.4,1274,113,Software Bug,4.2
+Realme,Realme Narzo 70,6118,24630,150686340,4.4,1484,108,Battery Drain,3.8
+Apple,iPhone 17 Pro,1670,89900,150133000,4.6,144,18,Overheating,2.3
+Motorola,G84 5G,5956,24887,148226972,4.0,1242,184,Display Screen Issue,5.2
+Xiaomi,Xiaomi 14 Pro,7612,17462,132920744,4.1,1550,256,Slow Charging,3.3
+Vivo,Vivo X100 Pro,6676,34629,231183204,4.2,1287,199,Battery Drain,5.6
+Vivo,Vivo V29 Pro,7841,34266,268679706,4.3,1225,239,Overheating,5.8
+Realme,Realme GT 6,4579,21986,100673894,4.0,993,81,Display Screen Issue,4.6
+Xiaomi,Xiaomi 14 Pro,8676,26772,232273872,4.1,1515,191,Camera Lag,3.7
+Xiaomi,Redmi Note 13 Pro,6785,13528,91787480,4.0,1038,121,Slow Charging,4.2
+Samsung,Galaxy S25,4266,124999,533245734,4.6,466,87,Software Bug,1.9
+Motorola,G84 5G,10321,16642,171762082,4.2,1902,277,Camera Lag,5.0
+Motorola,Edge 60 Pro,8297,20106,166819482,4.0,869,105,Camera Lag,3.6
+Realme,Realme 12 Pro,6202,19769,122607338,3.9,1423,62,Display Screen Issue,6.0
+Vivo,Vivo T2 Pro,4693,35359,165939787,4.4,524,68,Display Screen Issue,3.4
+Motorola,Edge 60 Fusion,4517,24574,111000758,4.3,941,202,Battery Drain,3.2
+Xiaomi,Redmi Note 13 Pro,11512,31412,361614944,4.3,1762,215,Camera Lag,5.2
+Realme,Realme GT 6,8124,28315,230031060,4.4,1242,227,Display Screen Issue,5.3
+Samsung,Galaxy A56 5G,3424,14999,51356576,4.6,830,41,Software Bug,3.3
+Samsung,Galaxy S25 Ultra,3134,124999,391746866,4.4,598,78,Overheating,2.3
+Vivo,Vivo T2 Pro,9222,38090,351265980,3.9,1295,141,Overheating,4.2
+Vivo,Vivo V29 Pro,10226,14608,149381408,3.9,2497,171,Camera Lag,5.0
+Apple,iPhone 17 Pro,1148,139999,160718852,4.7,103,11,Overheating,1.1
+Vivo,Vivo X100 Pro,5078,13094,66491332,4.2,1017,265,Overheating,5.0
+Motorola,Edge 60 Fusion,6327,11055,69944985,4.1,953,148,Camera Lag,5.1
+Apple,iPhone 17 Pro,1911,119999,229318089,4.6,156,40,Display Screen Issue,1.4
+Realme,Realme C65,7876,38668,304549168,4.4,1108,66,Display Screen Issue,3.8
+Motorola,Edge 60 Pro,9515,11216,106720240,4.4,1445,64,Software Bug,5.2
+Vivo,Vivo T2 Pro,7076,26638,188490488,4.3,1677,262,Slow Charging,5.7
+Realme,Realme Narzo 70,7819,16905,132180195,4.2,955,70,Display Screen Issue,4.9
+Motorola,G54,5666,23033,130504978,4.4,913,268,Overheating,4.8
+Realme,Realme Narzo 70,7360,30500,224480000,4.3,871,273,Overheating,5.2
+Apple,iPhone 15,1020,139999,142798980,4.5,197,16,Battery Drain,1.8
+Vivo,Vivo T2 Pro,10751,27827,299168077,4.0,2478,117,Display Screen Issue,3.6
+Vivo,Vivo T2 Pro,7374,30531,225135594,3.9,1102,265,Software Bug,3.8
+Xiaomi,Redmi Note 13 Pro,10883,32019,348462777,4.1,1972,244,Software Bug,3.4
+Motorola,G54,4664,28753,134103992,4.5,1013,173,Overheating,5.6
+Realme,Realme C65,6134,29666,181971244,4.2,1401,131,Overheating,4.2
+Samsung,Galaxy S25 Ultra,1622,14999,24328378,4.5,134,42,Software Bug,3.2
+Vivo,Vivo T2 Pro,7509,24112,181057008,4.1,1169,149,Overheating,3.7
+Vivo,Vivo Y200 5G,10548,24471,258120108,3.9,1530,189,Software Bug,4.8
+Xiaomi,Xiaomi 14 Pro,11933,36128,431115424,4.1,1605,265,Display Screen Issue,3.9
+Samsung,Galaxy S25,4039,74999,302920961,4.3,421,34,Battery Drain,2.1
+Apple,iPhone 16,1184,89900,106441600,4.6,214,7,Software Bug,1.5
+Apple,iPhone 17 Pro,1022,89900,91877800,4.6,138,26,Display Screen Issue,2.6
+Vivo,Vivo V29 Pro,6482,17842,115651844,4.0,1404,148,Overheating,3.5
+Vivo,Vivo X100 Pro,10447,27168,283824096,4.0,1088,146,Software Bug,4.3
+Realme,Realme C65,10564,36829,389061556,4.2,2096,248,Software Bug,4.1
+Vivo,Vivo X100 Pro,8873,36471,323607183,4.4,1655,112,Slow Charging,5.4
+Xiaomi,Redmi 12C,11956,14338,171425128,4.1,2925,224,Display Screen Issue,4.3
+Vivo,Vivo X100 Pro,7542,33897,255651174,4.1,1340,153,Slow Charging,3.3
+Samsung,Galaxy S25 Ultra,4893,124999,611620107,4.5,920,51,Overheating,2.0
+Apple,iPhone 15,2285,89900,205421500,4.5,346,21,Slow Charging,1.6
+Realme,Realme GT 6,5279,18388,97070252,4.2,1308,60,Battery Drain,5.2
+Apple,iPhone 17 Pro,2302,119999,276237698,4.5,256,19,Overheating,1.0
+Motorola,Edge 60 Pro,7936,15252,121039872,4.2,1244,126,Display Screen Issue,5.6
+Vivo,Vivo T2 Pro,10718,16682,178797676,4.0,2402,138,Display Screen Issue,5.8
+Apple,iPhone 17 Pro,2328,79999,186237672,4.6,214,30,Battery Drain,2.7
+Vivo,Vivo X100 Pro,10086,24485,246955710,3.9,926,91,Camera Lag,4.1
+Motorola,G84 5G,5578,12820,71509960,4.1,981,209,Display Screen Issue,3.6
+Motorola,G54,6008,29951,179945608,3.9,1230,78,Battery Drain,3.5
+Xiaomi,Redmi Note 13 Pro,7762,34083,264552246,4.2,888,99,Software Bug,5.3
+Vivo,Vivo Y200 5G,8889,23636,210100404,4.3,852,82,Battery Drain,5.9
+Vivo,Vivo T2 Pro,11470,19642,225293740,4.1,1130,89,Display Screen Issue,3.3
+Xiaomi,Xiaomi 14 Pro,4513,14509,65479117,4.3,752,263,Camera Lag,4.2
+Samsung,Galaxy A17 5G,3929,74999,294671071,4.2,705,93,Display Screen Issue,2.6
+Motorola,G84 5G,9380,17537,164497060,4.0,1913,77,Software Bug,4.1
+Vivo,Vivo T2 Pro,7302,18501,135094302,4.2,1667,267,Slow Charging,4.9
+Apple,iPhone 15,895,119999,107399105,4.6,110,34,Display Screen Issue,1.8
+Realme,Realme 12 Pro,7519,25084,188606596,4.1,1168,135,Software Bug,4.7
+Vivo,Vivo V29 Pro,11961,27587,329968107,4.5,2307,175,Camera Lag,4.2
+Realme,Realme C65,7632,17999,137368368,4.2,1868,133,Slow Charging,3.5
+Realme,Realme Narzo 70,4238,38048,161247424,4.2,710,227,Battery Drain,5.7
+Xiaomi,Redmi 12C,5405,14879,80420995,4.3,1019,99,Battery Drain,4.9
+Vivo,Vivo V29 Pro,10915,29325,320082375,4.5,1312,90,Overheating,4.9
+Xiaomi,Redmi 12C,6942,26261,182303862,4.4,1076,66,Battery Drain,4.9
+Realme,Realme GT 6,8350,35629,297502150,4.4,904,128,Display Screen Issue,3.3
+Apple,iPhone 17,933,89900,83876700,4.8,187,39,Camera Lag,1.8
+Samsung,Galaxy A56 5G,4017,24999,100420983,4.3,575,61,Display Screen Issue,3.8
+Realme,Realme 12 Pro,8371,36090,302109390,3.9,1942,85,Camera Lag,3.8
+Samsung,Galaxy A56 5G,4759,124999,594870241,4.2,596,45,Software Bug,2.2
+Vivo,Vivo Y200 5G,6329,26499,167712171,4.3,881,90,Battery Drain,5.9
+Xiaomi,POCO X6 Pro,8969,23193,208018017,3.9,1020,202,Slow Charging,3.6
+Xiaomi,Xiaomi 14 Pro,5507,32617,179621819,4.2,1241,164,Overheating,4.0
+Realme,Realme C65,4376,11346,49650096,4.4,929,228,Software Bug,4.7
+Apple,iPhone 16,2024,89900,181957600,4.6,414,6,Camera Lag,2.6
+Vivo,Vivo Y200 5G,5052,27044,136626288,4.4,972,84,Software Bug,5.1
+Motorola,Edge 60 Pro,9251,22552,208628552,4.5,993,180,Overheating,4.9
+Realme,Realme Narzo 70,11904,32414,385856256,4.3,1223,166,Software Bug,5.7
+Apple,iPhone 17 Pro,959,139999,134259041,4.8,146,23,Battery Drain,1.3
+Apple,iPhone 17 Pro,1216,139999,170238784,4.7,113,31,Display Screen Issue,2.4
+Xiaomi,Redmi Note 13 Pro,10820,16671,180380220,4.3,1421,91,Slow Charging,4.0
+Realme,Realme 12 Pro,7693,12656,97362608,4.3,1668,112,Battery Drain,5.8
+Motorola,Edge 60 Pro,9076,20374,184914424,4.2,1507,219,Camera Lag,5.2
+Motorola,G84 5G,5908,33672,198934176,4.0,1145,132,Display Screen Issue,5.7
+Xiaomi,POCO X6 Pro,4094,17560,71890640,4.4,641,215,Slow Charging,3.8
+Vivo,Vivo X100 Pro,8985,25991,233529135,4.0,2014,70,Overheating,4.9
+Motorola,G54,4222,22447,94771234,4.0,951,82,Slow Charging,5.0
+Xiaomi,Redmi 12C,8900,14423,128364700,4.4,867,203,Slow Charging,4.9
+Samsung,Galaxy A56 5G,4326,124999,540745674,4.4,495,54,Battery Drain,2.0
+Motorola,Edge 60 Fusion,7864,13442,105707888,4.1,740,249,Overheating,5.8
+Motorola,G84 5G,8313,12105,100628865,4.3,1464,274,Camera Lag,5.4
+Samsung,Galaxy A17 5G,4217,24999,105420783,4.4,376,45,Software Bug,2.1
+Apple,iPhone 16,924,89900,83067600,4.5,144,7,Battery Drain,1.4
+Xiaomi,Xiaomi 14 Pro,7571,19680,148997280,4.2,837,241,Slow Charging,4.7
+Realme,Realme Narzo 70,5968,16669,99480592,4.2,979,229,Display Screen Issue,5.0
+Realme,Realme GT 6,8027,35653,286186631,4.1,1271,79,Camera Lag,4.3
+Samsung,Galaxy S25,3486,24999,87146514,4.4,634,27,Display Screen Issue,2.8
+Xiaomi,Redmi 12C,4598,30129,138533142,4.3,546,176,Software Bug,5.2
+Realme,Realme GT 6,6219,21147,131513193,4.2,1115,218,Software Bug,5.0
+Motorola,Edge 60 Pro,4937,16790,82892230,3.9,1068,105,Camera Lag,5.9
+Xiaomi,Redmi 12C,6924,25140,174069360,4.0,958,116,Display Screen Issue,4.6
+Samsung,Galaxy A17 5G,3798,24999,94946202,4.5,333,58,Camera Lag,3.4
+Apple,iPhone 17 Pro,1852,139999,259278148,4.6,195,14,Software Bug,1.2
+Realme,Realme 12 Pro,10988,36304,398908352,4.2,2553,99,Camera Lag,3.9
+Realme,Realme GT 6,5646,36924,208472904,3.9,943,92,Battery Drain,4.6
+Xiaomi,POCO X6 Pro,9386,25909,243181874,4.1,2072,87,Software Bug,4.8
+Xiaomi,Xiaomi 14 Pro,10864,20193,219376752,4.2,2539,142,Software Bug,3.2
+Samsung,Galaxy A17 5G,4973,14999,74590027,4.5,1001,21,Camera Lag,3.5
+Vivo,Vivo T2 Pro,7875,25872,203742000,4.5,1399,147,Slow Charging,3.4
+Realme,Realme 12 Pro,10294,16662,171518628,4.0,1442,79,Camera Lag,5.0
+Realme,Realme Narzo 70,5593,24902,139276886,4.3,720,72,Overheating,4.8
+Apple,iPhone 16,2296,139999,321437704,4.7,480,6,Slow Charging,1.6
+Xiaomi,POCO X6 Pro,9539,32225,307394275,4.1,862,86,Display Screen Issue,4.6
+Apple,iPhone 15,1032,79999,82558968,4.7,206,21,Software Bug,2.3
+Samsung,Galaxy S25 Ultra,4640,24999,115995360,4.6,442,31,Overheating,3.0
+Xiaomi,POCO X6 Pro,5159,21248,109618432,4.3,811,190,Battery Drain,3.7
